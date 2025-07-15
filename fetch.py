@@ -5,7 +5,7 @@ import requests
 
 # Configuration
 GET_URL = "http://104.208.162.61:8083/get"
-OUTPUT_FOLDER = "output1"  # Folder to store fetched JSONs
+OUTPUT_FOLDER = "output2"  # Folder to store fetched JSONs
 NUM_EMPLOYEES = 15  # Change if you want more/less
 
 # Ensure output directory exists
@@ -32,7 +32,7 @@ for employee_id in range(1, NUM_EMPLOYEES + 1):
             continue
 
         # Save only the 'resume' part to file
-        output_path = os.path.join(OUTPUT_FOLDER, f"employee_{employee_id}.json")
+        output_path = os.path.join(OUTPUT_FOLDER, f"{employee_id}.json")
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(resume_data, f, indent=2)
 

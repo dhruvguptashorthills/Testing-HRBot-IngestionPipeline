@@ -71,17 +71,17 @@
   "projects": [
     {
       "title": "The Himalaya Drug Company",
-      "description": "Created and implemented the agile methodologies to the Himalaya Applications. Maintaining more than 80+ applications in-house and Global Applications in different Environments. Created the QA and UAT Environments for the Himalaya Applications. Implemented the VSTS (Visual Studio Team Services) which is cloud-based in the Himalaya Drug Company. Divided the applications into multiple organizations based on the nature of work. Created the build and release for all the applications based on the environments. Created the Auto Build and Release which is continuous Integration and Continuous deployments for QA and UAT Environments. Migrated all the code repositories from TFS to Git Repos.",
+      "description": "Created and implemented the agile methodologies to the Himalaya Applications, maintaining more than 80+ applications in-house and Global Applications in different Environments, created the QA and UAT Environments, implemented VSTS, and managed user administration.",
       "link": ""
     },
     {
       "title": "InvestCorp",
-      "description": "Creating VM\u2019s from VMWare and adding them to the domain. Having all the best security policies applied on the web servers IIS and third-party vendor applications. Created pipelines using Azure DevOps for the CI/CD applications of Dotnet based and angular based. Created Pipelines to execute MSSQL scripts.",
+      "description": "Created VM\u2019s from VMWare, applied security policies on web servers, created pipelines using Azure DevOps for CI/CD applications, and managed user administration.",
       "link": ""
     },
     {
       "title": "Stone River, Inc.",
-      "description": "Maintained the agile methodologies of RegEd Applications. Maintaining more than 15+ applications in-house and Global Applications in different Environments. Created the QA and UAT, PROD, and batch Environments for the Applications. Migrated from TFS which is on-premises to cloud VSTS. Implemented the VSTS (Visual Studio Team Services) which is cloud-based. Divided the applications into multiple organizations based on the nature of work. Created the build and release for all the applications based on the environments.",
+      "description": "Maintained agile methodologies, created QA, UAT, PROD environments, migrated from TFS to VSTS, and managed user administration.",
       "link": ""
     }
   ],
@@ -89,17 +89,20 @@
     {
       "title": "Microsoft Certified: Azure Fundamentals",
       "issuer": "Microsoft",
-      "year": "2023"
+      "year": "",
+      "link": ""
     },
     {
       "title": "Microsoft Certified: Azure Administrator Associate",
       "issuer": "Microsoft",
-      "year": "2023"
+      "year": "",
+      "link": ""
     },
     {
       "title": "Microsoft Certified: DevOps Engineer Expert",
       "issuer": "Microsoft",
-      "year": "2023"
+      "year": "",
+      "link": ""
     }
   ],
   "languages": [],

@@ -1,7 +1,7 @@
 {
   "employee_id": "2",
   "name": "Danish Dewani",
-  "email": "danish.dewani@gmail.com",
+  "email": "danish.dewani@gmail.com, hello@danishdewani.in",
   "phone": "+91-7742949901, +91-8587021993",
   "location": "Kota, Rajasthan, India",
   "summary": "To get a growth-oriented fulltime position in a reputed organization where I can enhance myself and my skills can be utilized for improvement and success of the organization.",
@@ -115,7 +115,8 @@
   "projects": [
     {
       "title": "Various Ventures",
-      "description": "Single-handedly developed and deployed multiple portals, MVP and websites for company\u2019s venture. Converted requirements to visual UI and then implemented them as a live product/project. Implemented multiple REST API to sync data with CRM and automated customised responses for prospects. Developed 4 different real-estate portal with lead generation, Coworking listing/booking/invoice management portal, Magento based custom eCommerce for jewellery venture."
+      "description": "Single-handedly developed and deployed multiple portals, MVP and websites for company\u2019s venture. Converted requirements to visual UI and then implemented them as a live product/project. Implemented multiple REST API to sync data with CRM and automated customised responses for prospects. Developed 4 different real-estate portal with lead generation, Coworking listing/booking/invoice management portal, Magento based custom eCommerce for jewellery venture.",
+      "link": ""
     }
   ],
   "certifications": [],

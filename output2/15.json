@@ -1,0 +1,196 @@
+{
+  "employee_id": "15",
+  "name": "Ajay Kumar Sahu",
+  "email": "ajaysearch123@gmail.com",
+  "phone": "07503994399",
+  "location": "Vill-Jaunpur, Post-M.Badshahpur, Dist-Jaunpur (UP)",
+  "summary": "Offering nearly 12 years of experience in software/application development with expertise in all phases of Software Development Life Cycle (SDLC), project management, and clean coding practices.",
+  "education": [
+    {
+      "degree": "B.Tech. (Computer Science & Engineering)",
+      "institution": "IIMT College of Engineering Greater Noida, Uttar Pradesh Technical University",
+      "year": 2010
+    },
+    {
+      "degree": "12\u1d57\u02b0",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2003
+    },
+    {
+      "degree": "10\u1d57\u02b0",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2001
+    }
+  ],
+  "experience": [
+    {
+      "title": "Solution Architect",
+      "company": "Redian Software Pvt. Ltd.",
+      "duration": "Since Jul\u201922",
+      "description": "Leading software solutions development and project management."
+    },
+    {
+      "title": "Technical Lead",
+      "company": "Techfour Engineering Solutions Pvt. Ltd.",
+      "duration": "Feb\u201913",
+      "description": "Oversaw technical aspects of projects and led development teams."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Goofy Info System Pvt. Ltd.",
+      "duration": "Nov\u201912-Feb\u201913",
+      "description": "Developed software solutions and participated in the SDLC."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Tetra Information Services Pvt. Ltd.",
+      "duration": "Oct\u201911-Oct\u201912",
+      "description": "Contributed to software development and maintenance."
+    },
+    {
+      "title": "Software Developer",
+      "company": "Successive Pvt. Ltd.",
+      "duration": "Oct\u201910-Sep\u201911",
+      "description": "Engaged in coding and implementation of software applications."
+    }
+  ],
+  "skills": [
+    "NodeJS",
+    "Python",
+    "PHP",
+    "AWS",
+    "Oracle",
+    "Codeigniter",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "XML",
+    "JSON",
+    "Javascript",
+    "Jquery",
+    "Angular",
+    "ReactJS",
+    "Smarty",
+    "SVN",
+    "GitHub",
+    "GitLab",
+    "Mysql",
+    "Postgres",
+    "MongoDB",
+    "Linux",
+    "Windows",
+    "Visual Studio",
+    "DreamViewer",
+    "PHPStorm",
+    "Pycharm",
+    "WebStorm",
+    "Notepad++",
+    "vTiger CRM",
+    "Sugar CRM",
+    "Suite CRM",
+    "ProcessMaker",
+    "SQS Queue",
+    "Kafka Queue",
+    "Newrelic",
+    "Solarwinds",
+    "Sentry"
+  ],
+  "projects": [
+    {
+      "title": "Airtel Fastag",
+      "description": "Developed modules for Vendor, Order, Products, Dispatch, Delivery, Transfer, Reports, Communication, etc. for Airtel.",
+      "link": ""
+    },
+    {
+      "title": "InsueMe",
+      "description": "Worked on modules for Vendor, Product, Package, Pricing, Policy, Offer, Sales, Leads, Invoice, Warranty, Reports, Communication, etc. for InsureMe Kenya.",
+      "link": ""
+    },
+    {
+      "title": "DriverShaab",
+      "description": "Developed modules for Vendor, Driver, Pickup, Drop, Tracking, Location, Invoice, Reports, Communication, etc.",
+      "link": ""
+    },
+    {
+      "title": "IOT Management System",
+      "description": "Designed a microservices approach for modules including Customer, Device, Device Command, Family Member, Communication, etc.",
+      "link": ""
+    },
+    {
+      "title": "Layer Five",
+      "description": "Managed microservices project for Customer, Customer Insight 360, Analytics, Tracking, Communication, etc.",
+      "link": ""
+    },
+    {
+      "title": "Health Management System",
+      "description": "Developed modules for Customer, Products, Plan, Review, Escalation, Auto Approval, Workflow, Communication, etc.",
+      "link": ""
+    },
+    {
+      "title": "Complaint Management System",
+      "description": "Worked on modules for Customer, Products, Plan, Warranty, Escalation, Auto Approval, Workflow, Communication, etc.",
+      "link": ""
+    },
+    {
+      "title": "CRM System (Sugar CRM, Suite CRM)",
+      "description": "Developed modules for Campaigns, Activity, Leads, Enterprise Leads, Enterprise Customer, Customer, Membership, Service Request, Communications, Emails, Email to SR, Complaint, Users, Teams, and Reports.",
+      "link": ""
+    },
+    {
+      "title": "Domino's",
+      "description": "Worked on modules for Customer, Store, Target, Order, Campaign, Coupon, Inventory, Biker & Mapping for Domino's Indonesia.",
+      "link": ""
+    },
+    {
+      "title": "PLUTOS System (Vtiger CRM)",
+      "description": "Developed modules for Campaigns, Activity, Lead, and Reports for OneAssist Consumer Solutions Private Limited.",
+      "link": ""
+    },
+    {
+      "title": "MIS Reports",
+      "description": "Migrated MySQL database into MongoDB and synchronized incremental MySQL data into MongoDB.",
+      "link": ""
+    },
+    {
+      "title": "aLive",
+      "description": "Developed modules for Registration, Login, Import contacts, Groups, Events, Video Conferencing and Notification.",
+      "link": ""
+    },
+    {
+      "title": "MFCS",
+      "description": "Worked on modules for Target, Campaigns, Activity, Lead, Customer, Vehicle, Model, Invoice PSF, NPSF, SMR, Import, Export, and Reports.",
+      "link": ""
+    },
+    {
+      "title": "Firefly",
+      "description": "Developed modules for Package Master, Customer, Activity, Lead, Sales Approval, Package Sold, Payment, Document, Approval Information, Client Servicing, Client Activation Import, Export, and Reports.",
+      "link": ""
+    },
+    {
+      "title": "HRM",
+      "description": "Worked on modules for Timesheet, Leave, travel, travel expense, Local conveyance, Expense Sheet, Cashadvance, Telephone, Reimbursement and Import Attendance Data.",
+      "link": ""
+    },
+    {
+      "title": "iKnow",
+      "description": "Developed Knowledge Portal for GE.",
+      "link": ""
+    },
+    {
+      "title": "TVS",
+      "description": "Worked on modules for Customer, VehicleDetails, RWSRetail, Extended Warranty, OEM, Model, Variant, SalesOrder, Claim, and Report.",
+      "link": ""
+    },
+    {
+      "title": "Modules",
+      "description": "Developed modules for Timesheet, Leave, travel, travel expense, Local conveyance, Expense Sheet, Cashadvance, Telephone, Reimbursement and Import Attendance Data.",
+      "link": ""
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": []
+}

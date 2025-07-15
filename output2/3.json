@@ -8,7 +8,7 @@
   "education": [
     {
       "degree": "B.Tech in CSE with minor Specialization in AI/ML Technology",
-      "institution": "Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh Indraprastha University (GGSIPU)",
+      "institution": "Maharaja Surajmal Institute of Technology (MSIT), Guru Gobind Singh IP University (GGSIPU)",
       "year": "Pursuing (2021-2025 batch)"
     },
     {
@@ -43,22 +43,22 @@
     }
   ],
   "skills": [
+    "Python",
+    "Matplotlib",
+    "NumPy",
+    "Pandas",
+    "Scikit learn",
+    "React JS",
+    "MERN stack",
+    "HTML",
+    "CSS",
     "Figma",
     "Adobe Illustrator",
     "Canva",
     "Unreal Engine 5",
     "Microsoft Word",
     "Microsoft Excel",
-    "Microsoft PowerPoint",
-    "C",
-    "C++",
-    "JavaScript",
-    "Python",
-    "SQL",
-    "MERN Stack",
-    "HTML",
-    "CSS",
-    "Basic Java"
+    "Microsoft Power Point"
   ],
   "projects": [
     {

@@ -12,7 +12,12 @@
       "year": "2017-2021"
     },
     {
-      "degree": "Class X - 10 CGPA, Class XII - 91%",
+      "degree": "Class X - 10 CGPA",
+      "institution": "DPS, R.K. Puram",
+      "year": "2010-2016"
+    },
+    {
+      "degree": "Class XII - 91%",
       "institution": "DPS, R.K. Puram",
       "year": "2010-2016"
     }
@@ -22,6 +27,7 @@
       "title": "Software Engineer",
       "company": "TUMMEE.COM",
       "duration": "May 2021 - Sep 2023",
+      "location": "",
       "description": "Expanded SEO reach of the platform with 1M+ new pages to drive customer acquisition. Worked on improving the Authentication on the platform. Tech Used: Python, Flask, Webapp2, HTML5/CSS/JS, Google App Engine."
     }
   ],
@@ -43,29 +49,34 @@
     "SQL",
     "Linux",
     "Web Development",
-    "Libraries - Numpy",
-    "Libraries - Pandas"
+    "Numpy",
+    "Pandas"
   ],
   "projects": [
     {
-      "title": "Teacher Sequences",
-      "description": "Worked on making 1M+ sequence pages available as logged-out pages for users and search engines. Improved existing search on the Teacher Sequences page by fixing bugs, adding new filters for search implemented using the Google Search API."
+      "title": "Teacher Sequences | Growth + Search Improvements",
+      "description": "Worked on making 1M+ sequence pages available as logged-out pages for users and search engines. Improved existing search on the Teacher Sequences page by fixing bugs, adding new filters for search implemented using the Google Search API.",
+      "link": ""
     },
     {
-      "title": "Support Service",
-      "description": "Implemented the service which was an interface for the Customer Support team to directly manipulate user data. Implemented multiple APIs related to Profile, Subscription, and Security information which would fetch and update user data on the interface."
+      "title": "Support Service | Customer Support interface",
+      "description": "Implemented the service which was an interface for the Customer Support team to directly manipulate user data. Implemented multiple APIs related to Profile, Subscription, and Security information which would fetch and update user data on the interface.",
+      "link": ""
     },
     {
-      "title": "Authentication Service",
-      "description": "Implemented authentication APIs, which were later used to authenticate all other micro-services on the platform. Google OAuth 2.0, Google one-tap, Disallowing spam users on the platform."
+      "title": "Authentication Service | Authentication and Authorization",
+      "description": "Implemented authentication APIs, which were later used to authenticate all other micro-services on the platform. Google OAuth 2.0, Google one-tap, Disallowing spam users on the platform.",
+      "link": ""
     },
     {
-      "title": "Customer Requests",
-      "description": "Added new pages (logged-in and logged-out) related to FAQs, feedback, tutorials and functionalities. Resolving customer issues with authentication, accounts, signups, etc. Worked with the Yoga Team to help with customer requests and technology support for internal scripts. Reduced our time lag from 10 days to 2 days for getting for uploading new yoga poses on the platform."
+      "title": "Customer Requests | Urgent Request Resolution",
+      "description": "Added new pages (logged-in and logged-out) related to FAQs, feedback, tutorials and functionalities. Resolving customer issues with authentication, accounts, signups, etc. Worked with the Yoga Team to help with customer requests and technology support for internal scripts. Reduced our time lag from 10 days to 2 days for getting for uploading new yoga poses on the platform.",
+      "link": ""
     },
     {
-      "title": "Initiatives",
-      "description": "Worked on developing a 'Tummee Library' which had internal functions in the library files that could be used by any project. Created quizzes related to technology topics to be used by team members."
+      "title": "Initiatives | Along with Main Assigned work",
+      "description": "Worked on developing a 'Tummee Library' which had internal functions in the library files that could be used by any project. Created quizzes related to technology topics to be used by team members.",
+      "link": ""
     }
   ],
   "certifications": [

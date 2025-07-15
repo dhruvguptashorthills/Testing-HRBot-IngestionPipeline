@@ -17,7 +17,7 @@
       "year": 2013
     },
     {
-      "degree": "12th",
+      "degree": "10+2",
       "institution": "CBSE",
       "year": 2015
     }
@@ -43,25 +43,28 @@
     }
   ],
   "skills": [
-    "WordPress Custom Theme Development",
-    "WordPress Elementor Theme Development",
-    "WPBakery Theme Development",
+    "WordPress Custom Theme Development from scratch",
+    "Extensive experience to create WordPress Elementor Theme, WPBakery Theme with additional option panel using Redux framework",
+    "Experience to create custom Elements/Shortcodes using WPBakery and Elementor Plugins with advanced level features",
     "WordPress Theme & Plugin Customization",
-    "UI/UX Designing using HTML5, CSS3, Bootstrap, jQuery",
-    "AJAX Functionalities",
-    "Custom Widgets for Custom Post Types",
-    "Object Oriented Programming in PHP and MySQL",
-    "Integration and Customization of Third-party Plugins",
-    "Website Load Time Optimization"
+    "Building high quality themes and e-Commerce portals for the client and market places",
+    "Experience in UI/UX designing using HTML5, CSS3, Bootstrap, jQuery",
+    "Ability to create AJAX functionalities like Search form, Login/Register form, Pagination and more",
+    "Custom widgets for custom post types and other website features",
+    "Ability to build solutions that cater for cross-platform and cross-browser differences and debugging site issues",
+    "Ability to create Multi-site website product",
+    "Knowledge of Object Oriented Programming with custom plugin development in PHP and MySQL",
+    "Ability to integrate and customize third-party plugins",
+    "Optimize website load time for maintenance"
   ],
   "projects": [
     {
       "title": "Sacrevachurch Nonprofit WordPress Theme",
-      "link": "https://themeforest.net/item/sacrevachurch-nonprofit-wordpress-theme/34137801"
+      "link": "https://themeforest.net/item/sacreva-church-nonprofit-wordpress-theme/34137801"
     },
     {
       "title": "Laramis Multipurpose Luxury WordPress Theme",
-      "link": "https://themeforest.net/item/laramis-multipurpose-luxury-wordpress-theme/30455667"
+      "link": "https://themeforest.net/item/laramiss-multipurpose-luxury-wordpress-theme/30455667"
     },
     {
       "title": "Insubex Elementor Multipurpose Insurance WordPress Theme",
@@ -73,47 +76,47 @@
     },
     {
       "title": "Monitor IT Solutions WordPress Theme",
-      "link": "https://themeforest.net/item/monitor-it-solutions-wordpress-theme/277764690"
+      "link": "https://themeforest.net/item/onitir-it-solutions-wordpress-theme/27764690"
     },
     {
       "title": "Apon Creative Portfolio WordPress Theme",
-      "link": "https://themeforest.net/item/apon-creative-portfolio-wordpress-theme/2988753536"
+      "link": "https://themeforest.net/item/apon-creative-portfolio-wordpress-theme/29887536"
     },
     {
       "title": "Taskere Cannabis Multipurpose WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/taskere-as-y-cannabis-multipurpose-wordpress-theme-110289.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/taskere-as-y-cannabis-multipurpose-wordpress-theme-110289.html"
     },
     {
       "title": "Tezzla Auto Mobile Accessories WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/tezzla-auto-mobile-accessories-wordpress-theme-114302.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/tezzla-auto-mobile-accessories-wordpress-theme-114302.html"
     },
     {
       "title": "Jirmados Photography WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/jirmados-photography-wordpress-theme-110423.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/jirmados-photography-wordpress-theme-110423.html"
     },
     {
       "title": "Weefly Medical Cannabis WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/weefly-medical-cannabis-wordpress-theme-973395.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/weefly-medical-cannabis-wordpress-theme-973395.html"
     },
     {
       "title": "Fattbeans Coffee Shop Barista WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/fattbeans-coffee-shop-barista-wordpress-theme-103093.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/fattbeans-coffee-shop-barista-wordpress-theme-103093.html"
     },
     {
-      "title": "Boldix Construction Multipurpose WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/boldix-er-construction-multipurpose-wordpress-theme-224554.html"
+      "title": "Boldix ER Construction Multipurpose WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-themes/boldix-er-construction-multipurpose-wordpress-theme-224554.html"
     },
     {
-      "title": "Medtab Medical Healthcare WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/medtab-medi-healthcare-wordpress-theme-197493.html"
+      "title": "Medtab Medi Healthcare WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-themes/medtab-medi-healthcare-wordpress-theme-197493.html"
     },
     {
       "title": "NYC Builders Building Construction WordPress Theme",
-      "link": "https://www.templatemonster.com/wordpress-theme/nyc-builders-building-construction-wordpress-theme-110968.html"
+      "link": "https://www.templatemonster.com/wordpress-themes/nyc-builders-building-construction-wordpress-theme-110968.html"
     },
     {
       "title": "Doc Portal",
-      "link": "https://slidesigma.com/template monster/wp/docportal/"
+      "link": "https://slidesigma.nyc/templatemonster/wp/docportal/"
     },
     {
       "title": "Levensloop",
