@@ -1,0 +1,128 @@
+{
+  "employee_id": "2",
+  "name": "Danish Dewani",
+  "email": "danish.dewani@gmail.com",
+  "phone": "+91-7742949901, +91-8587021993",
+  "location": "Kota, Rajasthan, India",
+  "summary": "To get a growth-oriented fulltime position in a reputed organization where I can enhance myself and my skills can be utilized for improvement and success of the organization.",
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Geetanjali Institute of Technical Studies",
+      "year": "2015"
+    },
+    {
+      "degree": "Matriculation",
+      "institution": "Atomic Energy Central School no 4",
+      "year": "2011"
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "Atomic Energy Central School no 3",
+      "year": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Developer II",
+      "company": "Shorthills Tech",
+      "duration": "Feb 2022 \u2013 Present",
+      "location": "Gurugram, India",
+      "description": ""
+    },
+    {
+      "title": "Consultant / Senior Web Developer",
+      "company": "Dau Agency",
+      "duration": "Sep 2019 \u2013 January 2022",
+      "location": "Gurugram, India",
+      "description": "Interaction with clients and internal team to define scope of work, Stacks, timelines and deliverables. Developed multiple CMS and Framework based projects, campaign and contest sites. Created custom plugins and add-on features for popular CMS (WordPress, Magento). Setup and deployment of projects on server, Optimization of server resources and performance."
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Hogarth Worldwide",
+      "duration": "July 2020 \u2013 October 2020",
+      "location": "Gurugram, India",
+      "description": "Implemented changes on client\u2019s web application as per provided requirements."
+    },
+    {
+      "title": "Project Manager",
+      "company": "Team Variance",
+      "duration": "Aug 2018 \u2013 March 2019 & Oct 2020 \u2013 March 2021",
+      "location": "South Delhi, India",
+      "description": "Collecting requirements and defining scope of work. Project architecture and database design. Worked closely with relevant teams internally to ensure alignment and coordination across operations for seamless implementation of existing and new systems."
+    },
+    {
+      "title": "Web Developer",
+      "company": "InstaOne Infotech Pvt. Ltd.",
+      "duration": "Feb 2017 \u2013 July 2018",
+      "location": "Gurugram, India",
+      "description": "Single-handedly developed and deployed multiple portals, MVP and websites for company\u2019s venture. Converted requirements to visual UI and then implemented them as a live product/project. Implemented multiple REST API to sync data with CRM and automated customised responses for prospects. Developed 4 different real-estate portal with lead generation, Coworking listing/booking/invoice management portal, Magento based custom eCommerce for jewellery venture."
+    },
+    {
+      "title": "Senior Developer",
+      "company": "Frinter Media Pvt. Ltd.",
+      "duration": "April 2016 \u2013 July 2017",
+      "location": "South Delhi, India",
+      "description": "Developed cloud based free printing platform with automated Ads printing. Created a portal to print data based upon user preference and allow printing custom data based upon available free/paid credits. Created algorithms and implemented them to optimize ads placement on multiple printing kiosk and web portals. Managed 3 remote developers working from Bangalore. Created frontend based on provided wireframes. Development of Ads management portal for clients along with recharge wallet system in order to provide hassle free ads publishing and analytics."
+    },
+    {
+      "title": "Web Developer",
+      "company": "K-12 Innovation Pvt. Ltd.",
+      "duration": "October 2015 \u2013 May 2016",
+      "location": "Gurugram, India",
+      "description": "Managed and maintained all static/dynamic content and pages of existing site. QA and fixes of issues on existing site. Improved performance of e-contest portal. Designing social media creatives and posters for upcoming event. Hiring and training interns for upcoming events. Created curriculum for various tech courses and module wise creation of sample projects."
+    },
+    {
+      "title": "Web Developer / Consultant",
+      "company": "Freelance",
+      "duration": "Aug 2018 \u2013 Present",
+      "location": "Remote",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JS",
+    "ReactJs (Learning)",
+    "Bootstrap",
+    "Magento2",
+    "Shopify",
+    "WooCommerce",
+    "OpenCart",
+    "PHP",
+    "MySQL",
+    "Git",
+    "SVN",
+    "WordPress",
+    "DokuWiki",
+    "Strapi",
+    "Laravel 5.3",
+    "Python",
+    "C",
+    "C++",
+    "SEO",
+    "SMM",
+    "LAMP",
+    "LetsEncrypt",
+    "AWS",
+    "DigitalOcean",
+    "VPS",
+    "CPanel",
+    "Photoshop",
+    "CorelDraw"
+  ],
+  "projects": [
+    {
+      "title": "Various Ventures",
+      "description": "Single-handedly developed and deployed multiple portals, MVP and websites for company\u2019s venture."
+    },
+    {
+      "title": "Real-Estate Portals",
+      "description": "Developed 4 different real-estate portal with lead generation, Coworking listing/booking/invoice management portal, Magento based custom eCommerce for jewellery venture."
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "social_profiles": []
+}

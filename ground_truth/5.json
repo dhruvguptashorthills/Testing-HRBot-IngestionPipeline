@@ -1,0 +1,53 @@
+{
+  "name": "Abhay Pratap Singh",
+  "email": "abhayscriet08@gmail.com",
+  "phone": "7060174032",
+  "location": "Noida 201301",
+  "summary": "Seasoned IT Professional with over 5+ years of work experience in Information Technology focusing on Software Quality Assurance (SQA) and Manual and Automation Testing. Software QA tester with full system development lifecycle experience, including designing, developing, and implementing test plans, test cases and test processes fuelling swift corrective actions, significant cost savings and fault-free audits. Expertise in Test Management, Defect Tracking, Quality Assurance (QA) with a wide variety of projects and environments. Worked closely with Business Analysts and Developers to review test requirements. Strong analytical, interpersonal, communication, test coordination, problem solving and decision-making skills. Expertise in conducting and participating in different Types of Testing - Integration, System, Functional, Regression, Sanity, Smoke and User Acceptance Testing (UAT). Good Experience in working on projects in Agile Environment. Expertise on performing Front End (End to End Testing, System Integration Testing) of applications. Good understanding of QA Principles, QA Process, Test Plans etc., Can quickly understand Customer/Software Requirement Specifications. Well versed with SDLC, STLC and Defect Life Cycle. Expertise in identifying and preparing Test Scenarios, Test Cases and Test Data. Expertise in Defect Reporting, Defect Tracking and Defect Management. Expertise in Functional Testing, Re-Testing, Regression Testing, Integration Testing System.",
+  "education": [
+    {
+      "degree": "BTECH",
+      "institution": "CCSU University Meerut",
+      "year": "2014-2018"
+    },
+    {
+      "degree": "School",
+      "institution": "LFCS school Mau",
+      "year": "2008-2013"
+    }
+  ],
+  "experience": [
+    {
+      "title": "QA Manual & Automation Tester",
+      "company": "Shorthillstech.ai",
+      "duration": "Feb 2021 - Till Date",
+      "location": "Noida 201301",
+      "description": "In Agile environment, attended daily stand up meetings, reviewed user stories. Designed and Developed Test plan and test scripts based on BRD and User Stories. Extensively involved in all stages of testing life cycle, Software Development Life cycle (SDLC) using Agile methodologies. Conducted Smoke Testing, Functional Testing, sanity testing, end to end Testing, Regression Testing and User Acceptance Testing. Filed and tracked the defects using Jira. Performed Front end and Back-end testing of all the Modules using Manual as well as Automation Testing techniques. Prepare and execute test scripts using Selenium. Located web elements using Xpath expressions, CSS Selectors etc. Created selenium automation scripts in python using and page object model (POM) and Configured Web Driver. Participated in QA weekly meetings and various other meetings and discussed enhancement and modification request issues and defects in the applications."
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "Pradyumna Infotech",
+      "duration": "Nov 2018 - Feb 2021",
+      "location": "Noida 201301",
+      "description": "Good knowledge in Manual Testing. Tracked and reported the defects using Jira. Extensive experience in GUI, Functional testing, System and Regression testing. Functional Testing, sanity testing, end to end Testing, Regression Testing and User Acceptance Testing. Well versed with SDLC, STLC and Defect Life Cycle. Participated in QA weekly meetings and various other meetings and discussed enhancement and modification request issues and defects in the applications."
+    }
+  ],
+  "skills": [
+    "Manual Testing",
+    "UI and Functional Testing",
+    "API testing tool Postman",
+    "Browser stack",
+    "Automation Testing",
+    "Python",
+    "Selenium",
+    "Git and Git hub",
+    "Pycharm"
+  ],
+  "projects": [],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "social_profiles": []
+}

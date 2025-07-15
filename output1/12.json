@@ -1,0 +1,57 @@
+{
+  "employee_id": "12",
+  "name": "MANMEET KAUR",
+  "email": "",
+  "phone": "+919478838217",
+  "location": "Gurgaon, India",
+  "summary": "Software QA with 4 months of experience in software testing and 1.5+ years in Catalogue management, Data Collection & Data QA. Skilled in test case design and documentation, defect tracking, Functional testing, and regression testing to ensure software quality. Proficient in JIRA and Azure DevOps for test management and reporting defects. Knowledge of SDLC & STLC, Agile methodologies. Cooperative Team player dedicated to finding flaws, enhancing user experience, and producing High-Caliber software on schedule. Skilled at working with cross-functional teams to develop software free of defects and fulfill project deadlines.",
+  "education": [
+    {
+      "degree": "Bachelor of Sciences: Economics",
+      "institution": "UAY College",
+      "year": ""
+    },
+    {
+      "degree": "Masters of Sciences: Economics (Hons.)",
+      "institution": "Guru Nanak Dev University",
+      "year": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software QA",
+      "company": "Shorthill AI",
+      "duration": "12/2024 - Current",
+      "location": "Gurgaon, India",
+      "description": "Engaged in comprehensive test planning, execution, result analysis, and reporting for various screens of the web application. Responsible to keep track of the new requirements in the Project and update the test cases accordingly. Worked closely with Developers and Product Owners to ensure features/bug fixes are 'shippable\u2019 by sprint end. Maintain detailed documentation of test cases, test execution results, and bug reports. Work closely with developers to reproduce and debug issues. Involved in test planning, test creation, test execution, test result analysis and reporting for various screens of the application. Contributed to sprint planning, sprint review/retrospectives and daily stand-ups meetings. Performed System Testing, Functional and Regression Testing, Smoke and Sanity Testing for the project. Involved in the functional testing, which includes testing of all-core functions of the website. Develop test plans, test strategies, and test scenarios based on functional and business requirements. Perform UI, cross-browser, and mobile testing to ensure compatibility. Identify, document, and track defects using tools like JIRA and Azure DevOps."
+    },
+    {
+      "title": "Data Science Annotation Analyst",
+      "company": "Shorthills AI",
+      "duration": "09/2023 - 11/2024",
+      "location": "Gurgaon, India",
+      "description": "Data Annotation, Manual Data Extraction, Primary and Secondary Web Research."
+    }
+  ],
+  "skills": [
+    "Manual Testing Skills",
+    "JIRA",
+    "Azure DevOps",
+    "Strong Analytical & Problem-Solving Skills",
+    "Compatibility Testing",
+    "Test Case Design Documents",
+    "MS-Excel",
+    "Attention to Detail",
+    "Software Development Life Cycle",
+    "Software Testing Life Cycle"
+  ],
+  "projects": [],
+  "certifications": [],
+  "languages": [],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://www.linkedin.com/in/manmeet-kaur-88323a262/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "employee_id": "6",
+  "name": "Maddineni Abhilash",
+  "email": "maddineniabhilash1234@gmail.com",
+  "phone": "+91-8618001742",
+  "location": "Hyderabad",
+  "summary": "Having 9+ years of hands-on experience as DevOps Engineer in software configuration & release management, deploying software, automation & control environment management activities in Web-based and mobile applications.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology (BTech \u2013 IT)",
+      "institution": "VVIT, Namburu - JNTU- Kakinada",
+      "year": "2011 \u2013 2015"
+    },
+    {
+      "degree": "Board of Secondary Education",
+      "institution": "NRI Academy, Guntur - Andhra Pradesh",
+      "year": "2009 \u2013 2011"
+    },
+    {
+      "degree": "Board of Primary Education",
+      "institution": "Oxford Public School, Guntur \u2013 Andhra Pradesh",
+      "year": "2008 \u2013 2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Technical Lead",
+      "company": "LTIMindtree (formerly Mindtree)",
+      "duration": "July 2022 - Present",
+      "description": ""
+    },
+    {
+      "title": "Infra Dev Specialist",
+      "company": "Cognizant Technology Services",
+      "duration": "August 2021 - July 2022",
+      "description": ""
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Atlas Systems PVT LTD",
+      "duration": "March 2015 - August 2021",
+      "description": ""
+    },
+    {
+      "title": "Intern",
+      "company": "Tibco Solutions",
+      "duration": "Dec 2014 - Feb 2015",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "Azure",
+    "AWS",
+    "GCP",
+    "Azure DevOps",
+    "Jenkins",
+    "Terraform",
+    "Docker",
+    "Ansible",
+    "Windows",
+    "Linux",
+    "VSTS",
+    "IIS",
+    "Azure Git Repo",
+    "Git Extensions",
+    "SQL Server",
+    "Backup",
+    "Recovery",
+    "ORACLE"
+  ],
+  "projects": [
+    {
+      "title": "The Himalaya Drug Company",
+      "description": "Created and implemented the agile methodologies to the Himalaya Applications. Maintaining more than 80+ applications in-house and Global Applications in different Environments. Created the QA and UAT Environments for the Himalaya Applications. Implemented the VSTS (Visual Studio Team Services) which is cloud-based in the Himalaya Drug Company. Divided the applications into multiple organizations based on the nature of work. Created the build and release for all the applications based on the environments. Created the Auto Build and Release which is continuous Integration and Continuous deployments for QA and UAT Environments. Migrated all the code repositories from TFS to Git Repos.",
+      "link": ""
+    },
+    {
+      "title": "InvestCorp",
+      "description": "Creating VM\u2019s from VMWare and adding them to the domain. Having all the best security policies applied on the web servers IIS and third-party vendor applications. Created pipelines using Azure DevOps for the CI/CD applications of Dotnet based and angular based. Created Pipelines to execute MSSQL scripts.",
+      "link": ""
+    },
+    {
+      "title": "Stone River, Inc.",
+      "description": "Maintained the agile methodologies of RegEd Applications. Maintaining more than 15+ applications in-house and Global Applications in different Environments. Created the QA and UAT, PROD, and batch Environments for the Applications. Migrated from TFS which is on-premises to cloud VSTS. Implemented the VSTS (Visual Studio Team Services) which is cloud-based. Divided the applications into multiple organizations based on the nature of work. Created the build and release for all the applications based on the environments.",
+      "link": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "year": "2023"
+    },
+    {
+      "title": "Microsoft Certified: Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "year": "2023"
+    },
+    {
+      "title": "Microsoft Certified: DevOps Engineer Expert",
+      "issuer": "Microsoft",
+      "year": "2023"
+    }
+  ],
+  "languages": [],
+  "social_profiles": []
+}

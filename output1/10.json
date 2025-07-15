@@ -1,0 +1,65 @@
+{
+  "employee_id": "10",
+  "name": "Harsh Sharma",
+  "email": "harshsharma89682@gmail.com",
+  "phone": "+91 8968285864",
+  "location": "House no.4/110, Khalsapur road, Tarn Taran, Punjab, 143401",
+  "summary": "Passionate about Web Development goal is to achieve a good position by doing satisfying work in the IT field, strongly focused to complete the tasks in fast-paced environment.",
+  "education": [
+    {
+      "degree": "Bachelor's of Computer Application (Final Year)",
+      "institution": "Guru Nanak Dev University",
+      "year": "2020 \u2013 2023"
+    },
+    {
+      "degree": "12th - PCM",
+      "institution": "SD Sen. Sec. School - PSEB",
+      "year": "2019 \u2013 2020"
+    },
+    {
+      "degree": "10th",
+      "institution": "Saraswati SD Public School - PSEB",
+      "year": "2017 \u2013 2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Support Agent (Meesho Supplier Support)",
+      "company": "Kochartech info pvt. ltd.",
+      "duration": "Aug, 2022 - Present",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JAVASCRIPT",
+    "C++",
+    "PYTHON",
+    "DBMS",
+    "WEB DEVELOPMENT"
+  ],
+  "projects": [
+    {
+      "title": "MLSA DEVCON",
+      "description": "Contributed in development of a Landing page used for the Microsoft student ambassadors devcon conference.",
+      "link": "https://mlsa-devcon.web.app/"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://www.linkedin.com/in/harsh-sharma-23405a1a7/"
+    },
+    {
+      "platform": "GitHub",
+      "link": "https://github.com/Harshsharma-dev"
+    }
+  ]
+}

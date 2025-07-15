@@ -1,0 +1,92 @@
+{
+  "name": "Sambhav Suri",
+  "email": "sambhavsuril@gmail.com",
+  "phone": "+91 8130343185",
+  "location": "New Delhi",
+  "summary": "",
+  "education": [
+    {
+      "degree": "B.Tech in CSE with minor Specialization in AI/ML Technology",
+      "institution": "Maharaja Surajmal Institute of Technology, Guru Gobind Singh Indraprastha University (GGSIPU)",
+      "year": "Pursuing (2021-2025 batch)"
+    },
+    {
+      "degree": "Senior Secondary",
+      "institution": "Delhi Public School, Rohini (CBSE)",
+      "year": 2021
+    },
+    {
+      "degree": "Secondary",
+      "institution": "Delhi Public School, Rohini (CBSE)",
+      "year": 2019
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data Analytics Intern",
+      "company": "IBM SKILLSBUILD",
+      "duration": "July 2024 - August 2024 (6 weeks)",
+      "description": "Gained experience in analyzing data and understanding various aspects of data analysis using Python libraries such as Matplotlib, NumPy, Pandas and Scikit learn."
+    },
+    {
+      "title": "Tech and Innovation Research Intern",
+      "company": "Atal Innovation Mission, NITI Aayog, Government of India",
+      "duration": "March 2024 - May 2024 (8 weeks)",
+      "description": "Worked under the department of Atal Tinkering Labs. Actively supported ATL through strategic and analytical tasks."
+    },
+    {
+      "title": "Summer Training",
+      "company": "Brain Mentors, New Delhi",
+      "duration": "July 2023 - August 2023 (4 Weeks)",
+      "description": "Underwent full-stack web development training with Brain Mentors, successfully completing multiple minor projects and a major Music Web App project."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Matplotlib",
+    "NumPy",
+    "Pandas",
+    "Scikit learn",
+    "React JS",
+    "MERN stack",
+    "HTML",
+    "CSS",
+    "Figma",
+    "Adobe Illustrator",
+    "Canva",
+    "Unreal Engine 5",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint"
+  ],
+  "projects": [
+    {
+      "title": "Mind Cradle",
+      "description": "Developed a telehealth web application to enhance healthcare access by integrating GenAI for prescription analysis, supporting doctor-patient profiles, prescription issuance, and online session booking."
+    },
+    {
+      "title": "Nutri India Impex Pvt. Ltd.",
+      "description": "Contributed to the front-end development using React JS, ensuring responsive UI/UX across all screen sizes. Integrated dynamic product displays by fetching data from MongoDB."
+    },
+    {
+      "title": "Music Web APP",
+      "description": "Developed a dynamic Music Web APP using the MERN stack and iTunes API. Built a responsive UI with MUI, Bootstrap, and custom CSS components."
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Hindi",
+    "English",
+    "Basic knowledge of German"
+  ],
+  "social_profiles": [
+    {
+      "platform": "GitHub",
+      "link": ""
+    },
+    {
+      "platform": "LinkedIn",
+      "link": ""
+    }
+  ]
+}

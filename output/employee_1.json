@@ -1,0 +1,101 @@
+{
+  "employee_id": "1",
+  "name": "Jyoti Lohani",
+  "email": "jlohani29@gmail.com",
+  "phone": "8076753355",
+  "location": "",
+  "summary": "",
+  "education": [
+    {
+      "degree": "Msc Applied Mathematics",
+      "institution": "Delhi Technical University",
+      "year": "2020-22"
+    },
+    {
+      "degree": "Bsc Physical Science",
+      "institution": "Kalindi College, Delhi University",
+      "year": "2017-2020"
+    },
+    {
+      "degree": "Uttrakhand Board (Class XII)",
+      "institution": "GGIC, Dauliya",
+      "year": "2017"
+    },
+    {
+      "degree": "Uttrakhand Board (Class X)",
+      "institution": "GGIC, Dauliya",
+      "year": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Summer Intern",
+      "company": "Freeco Education Pvt. Ltd.",
+      "duration": "May 2021\u2013June 2021",
+      "location": "",
+      "description": "Worked as a subject matter expert, solving the complex problems in multiple areas."
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Team Player",
+    "Microsoft Office",
+    "Python",
+    "C Programming",
+    "MATLAB",
+    "Adaptability",
+    "R programming",
+    "Analytical Skills",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "title": "Creation of Pac-man game",
+      "description": "Implementation of C-Programming."
+    },
+    {
+      "title": "Study of Covid-19 numbers",
+      "description": "Using some aspects of probability theory and statistics."
+    },
+    {
+      "title": "Boolean Algebra",
+      "description": "Application in switching circuits."
+    },
+    {
+      "title": "Modelling traffic flow",
+      "description": "By the method of characteristics."
+    },
+    {
+      "title": "ROBOTICS",
+      "description": "Configuration of Robot Using Topology."
+    },
+    {
+      "title": "Application of Python Programming",
+      "description": "In Graph Theory."
+    },
+    {
+      "title": "Creation of Online Shopping Management System",
+      "description": "Using SQL."
+    },
+    {
+      "title": "Application of Fuzzy",
+      "description": "In Food Quality Inspection."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Financial Markets (with Honors)",
+      "issuer": "COURSERA"
+    },
+    {
+      "title": "Practical Time Series Analysis",
+      "issuer": "COURSERA"
+    },
+    {
+      "title": "Research Paper presentation",
+      "issuer": "International Conference on Engineering & Technology, Computer, Basic & Applied Sciences (ICETCBAS-22)"
+    }
+  ],
+  "languages": [],
+  "social_profiles": []
+}

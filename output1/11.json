@@ -1,0 +1,140 @@
+{
+  "employee_id": "11",
+  "name": "Himanshu Singh",
+  "email": "hsingh4u10@gmail.com",
+  "phone": "+91 8076188344",
+  "location": "Delhi, India",
+  "summary": "Proficient and creative WordPress developer with a strong knowledge in Custom WordPress theme and plugin development. Experienced in creating eCommerce, Donation and Listing Platform websites from scratch using latest technologies. Expert in all aspects of WordPress website creation, including design, plugins, customization and implementation.",
+  "education": [
+    {
+      "degree": "Bachelor in Computer Application",
+      "institution": "IGNOU University",
+      "year": "Pursuing"
+    },
+    {
+      "degree": "10th",
+      "institution": "CBSE",
+      "year": 2013
+    },
+    {
+      "degree": "12th",
+      "institution": "CBSE",
+      "year": 2015
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Designer",
+      "company": "Ginger Webs",
+      "duration": "Nov 2016 - Nov 2017",
+      "description": ""
+    },
+    {
+      "title": "WordPress Developer & Web Designer",
+      "company": "Witonix Pvt. Ltd.",
+      "duration": "May 2017 - May 2019",
+      "description": ""
+    },
+    {
+      "title": "Sr. WordPress Developer",
+      "company": "Slidesigma",
+      "duration": "September 2019 - Present",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "WordPress Custom Theme Development from scratch",
+    "Extensive experience to create WordPress Elementor Theme, WPBakery Theme with additional option panel using Redux framework",
+    "Experience to create custom Elements/Shortcodes using WPBakery and Elementor Plugins with advanced level features",
+    "WordPress Theme & Plugin Customization",
+    "Building high quality themes and e-Commerce portals for the client and marketplaces",
+    "Experience in UI/UX designing using HTML5, CSS3, Bootstrap, jQuery",
+    "Ability to create AJAX functionalities like Search form, Login/Register form, Pagination and more",
+    "Custom widgets for custom post types and other website features",
+    "Ability to build solutions that cater for cross-platform and cross-browser differences and debugging site issues",
+    "Ability to create Multi-site web site product",
+    "Knowledge of Object Oriented Programming with custom plugin development in PHP and MySQL",
+    "Ability to integrate and customize third-party plugins",
+    "Optimize website load time for maintenance"
+  ],
+  "projects": [
+    {
+      "title": "Sacrevachurch Nonprofit WordPress Theme",
+      "link": "https://themeforest.net/item/sacrevachurch-nonprofit-wordpress-theme/34137801"
+    },
+    {
+      "title": "Laramis Multipurpose Luxury WordPress Theme",
+      "link": "https://themeforest.net/item/laramis-multipurpose-luxury-wordpress-theme/30455667"
+    },
+    {
+      "title": "Insubex Elementor Multipurpose Insurance WordPress Theme",
+      "link": "https://themeforest.net/item/insubex-elementor-multipurpose-insurance-wordpress-theme/33216899"
+    },
+    {
+      "title": "Miranda Hotel Booking WordPress Theme",
+      "link": "https://themeforest.net/item/miranda-hotel-booking-wordpress-theme/28618810"
+    },
+    {
+      "title": "Monitor IT Solutions WordPress Theme",
+      "link": "https://themeforest.net/item/monitor-it-solutions-wordpress-theme/277764690"
+    },
+    {
+      "title": "Apon Creative Portfolio WordPress Theme",
+      "link": "https://themeforest.net/item/apon-creative-portfolio-wordpress-theme/2988753536"
+    },
+    {
+      "title": "Taskere as y Cannabis Multipurpose WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/taskere-as-y-cannabis-multipurpose-wordpress-theme-110289.html"
+    },
+    {
+      "title": "Tezzla Auto Mobile Accessories WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/tezzla-auto-mobile-accessories-wordpress-theme-114302.html"
+    },
+    {
+      "title": "Jirmados Photography WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/jirmados-photography-wordpress-theme-110423.html"
+    },
+    {
+      "title": "Weefly Medical Cannabis WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/weefly-medical-cannabis-wordpress-theme-973395.html"
+    },
+    {
+      "title": "Fattbeans Coffee Shop Barista WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/fattbeans-coffee-shop-barista-wordpress-theme-103093.html"
+    },
+    {
+      "title": "Boldix ER Construction Multipurpose WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/boldix-er-construction-multipurpose-wordpress-theme-224554.html"
+    },
+    {
+      "title": "Medtab Medi Healthcare WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/medtab-medi-healthcare-wordpress-theme-197493.html"
+    },
+    {
+      "title": "NYC Builders Building Construction WordPress Theme",
+      "link": "https://www.templatemonster.com/wordpress-theme/nyc-builders-building-construction-wordpress-theme-110968.html"
+    },
+    {
+      "title": "Doc Portal",
+      "link": "https://slidesigma.com/template monster/wp/docportal/"
+    },
+    {
+      "title": "Levensloop",
+      "link": "https://www.levensloop.in/"
+    },
+    {
+      "title": "Lolfinity",
+      "link": "https://www.lolfinity.com/"
+    },
+    {
+      "title": "Boat Trips Punta Cana",
+      "link": "https://boattripspunta.com/"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": []
+}

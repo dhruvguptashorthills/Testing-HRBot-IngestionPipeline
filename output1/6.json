@@ -1,0 +1,107 @@
+{
+  "employee_id": "6",
+  "name": "Maddineni Abhilash",
+  "email": "maddineniabhilash1234@gmail.com",
+  "phone": "+91-8618001742",
+  "location": "Hyderabad",
+  "summary": "Having 9+ years of hands-on experience as DevOps Engineer in software configuration & release management, deploying software, automation & control environment management activities in Web-based and mobile applications.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology (BTech \u2013 IT)",
+      "institution": "VVIT, Namburu - JNTU- Kakinada",
+      "year": "2011 \u2013 2015"
+    },
+    {
+      "degree": "Board of Secondary Education",
+      "institution": "NRI Academy, Guntur - Andhra Pradesh",
+      "year": "2009 \u2013 2011"
+    },
+    {
+      "degree": "Board of Primary Education",
+      "institution": "Oxford Public School, Guntur \u2013 Andhra Pradesh",
+      "year": "2008 \u2013 2009"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Technical Lead",
+      "company": "LTIMindtree (formerly Mindtree)",
+      "duration": "July 2022 - Present",
+      "description": ""
+    },
+    {
+      "title": "Infra Dev Specialist",
+      "company": "Cognizant Technology Services",
+      "duration": "August 2021 - July 2022",
+      "description": ""
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Atlas Systems PVT LTD",
+      "duration": "March 2015 - August 2021",
+      "description": ""
+    },
+    {
+      "title": "Intern",
+      "company": "Tibco Solutions",
+      "duration": "Dec 2014 - Feb 2015",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "Azure",
+    "AWS",
+    "GCP",
+    "Azure DevOps",
+    "Jenkins",
+    "Terraform",
+    "Docker",
+    "Ansible",
+    "Windows",
+    "Linux",
+    "VSTS",
+    "IIS",
+    "Azure Git Repo",
+    "Git Extensions",
+    "SQL Server",
+    "Backup and Recovery",
+    "SQL Server",
+    "ORACLE"
+  ],
+  "projects": [
+    {
+      "title": "The Himalaya Drug Company",
+      "description": "Created and implemented the agile methodologies to the Himalaya Applications, maintaining more than 80+ applications in-house and Global Applications in different Environments, created the QA and UAT Environments, implemented VSTS, and managed major releases.",
+      "link": ""
+    },
+    {
+      "title": "InvestCorp",
+      "description": "Created VM\u2019s from VMWare, applied security policies on web servers, created pipelines using Azure DevOps for CI/CD applications, and managed user administration.",
+      "link": ""
+    },
+    {
+      "title": "Stone River, Inc.",
+      "description": "Maintained agile methodologies, created QA, UAT, PROD environments, migrated from TFS to VSTS, and managed application releases.",
+      "link": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "year": "2021"
+    },
+    {
+      "title": "Microsoft Certified: Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "year": "2021"
+    },
+    {
+      "title": "Microsoft Certified: DevOps Engineer Expert",
+      "issuer": "Microsoft",
+      "year": "2021"
+    }
+  ],
+  "languages": [],
+  "social_profiles": []
+}

@@ -1,0 +1,196 @@
+{
+  "employee_id": "15",
+  "name": "Ajay Kumar Sahu",
+  "email": "ajaysearch123@gmail.com",
+  "phone": "07503994399",
+  "location": "Vill-Jaunpur, Post-M.Badshahpur, Dist-Jaunpur (UP)",
+  "summary": "Offering nearly 12 years of experience in software/application development with a focus on clean coding, project management, and software delivery best practices.",
+  "education": [
+    {
+      "degree": "B.Tech. (Computer Science & Engineering)",
+      "institution": "IIMT College of Engineering Greater Noida, Uttar Pradesh Technical University",
+      "year": 2010
+    },
+    {
+      "degree": "12\u1d57\u02b0",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2003
+    },
+    {
+      "degree": "10\u1d57\u02b0",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2001
+    }
+  ],
+  "experience": [
+    {
+      "title": "Solution Architect",
+      "company": "Redian Software Pvt. Ltd.",
+      "duration": "Since Jul\u201922",
+      "description": "Leading software solutions development, managing project timelines, and ensuring delivery aligns with client requirements."
+    },
+    {
+      "title": "Technical Lead",
+      "company": "Techfour Engineering Solutions Pvt. Ltd.",
+      "duration": "Feb\u201913",
+      "description": "Oversaw technical specifications and led project execution to meet business objectives."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Goofy Info System Pvt. Ltd.",
+      "duration": "Nov\u201912-Feb\u201913",
+      "description": "Developed software solutions and participated in the full software development lifecycle."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Tetra Information Services Pvt. Ltd.",
+      "duration": "Oct\u201911-Oct\u201912",
+      "description": "Engaged in requirement analysis and coding for various applications."
+    },
+    {
+      "title": "Software Developer",
+      "company": "Successive Pvt. Ltd.",
+      "duration": "Oct\u201910-Sep\u201911",
+      "description": "Contributed to software development projects and maintained application modules."
+    }
+  ],
+  "skills": [
+    "NodeJS",
+    "Python",
+    "PHP",
+    "AWS",
+    "Oracle",
+    "Codeigniter",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "XML",
+    "JSON",
+    "Javascript",
+    "Jquery",
+    "Angular",
+    "ReactJS",
+    "Smarty",
+    "SVN",
+    "GitHub",
+    "GitLab",
+    "Mysql",
+    "Postgres",
+    "MongoDB",
+    "Linux",
+    "Windows",
+    "Visual Studio",
+    "DreamViewer",
+    "PHPStorm",
+    "Pycharm",
+    "WebStorm",
+    "Notepad++",
+    "vTiger CRM",
+    "Sugar CRM",
+    "Suite CRM",
+    "ProcessMaker",
+    "SQS Queue",
+    "Kafka Queue",
+    "Newrelic",
+    "Solarwinds",
+    "Sentry"
+  ],
+  "projects": [
+    {
+      "title": "Airtel Fastag",
+      "description": "Understanding business processes and finalizing the approach with clients.",
+      "link": null
+    },
+    {
+      "title": "InsueMe",
+      "description": "Finalizing the approach with clients and managing project timelines.",
+      "link": null
+    },
+    {
+      "title": "DriverShaab",
+      "description": "Understanding business processes and managing project timelines.",
+      "link": null
+    },
+    {
+      "title": "IOT Management System",
+      "description": "Designing a microservices approach and managing project delivery.",
+      "link": null
+    },
+    {
+      "title": "Layer Five",
+      "description": "Designing a microservices approach and managing project delivery.",
+      "link": null
+    },
+    {
+      "title": "Health Management System",
+      "description": "Designing a microservices approach and managing project delivery.",
+      "link": null
+    },
+    {
+      "title": "Complaint Management System",
+      "description": "Designing a microservices approach and managing project delivery.",
+      "link": null
+    },
+    {
+      "title": "CRM System(Sugar CRM, Suite CRM)",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "Domino's",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "PLUTOS System(Vtiger CRM)",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "MIS Reports",
+      "description": "Migrating MySQL database into MongoDB and synchronization.",
+      "link": null
+    },
+    {
+      "title": "aLive",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "MFCS",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "Firefly",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "HRM",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "iKnow",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "TVS",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    },
+    {
+      "title": "Modules",
+      "description": "Understanding business processes and managing project tasks.",
+      "link": null
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": []
+}

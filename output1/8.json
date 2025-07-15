@@ -1,0 +1,63 @@
+{
+  "employee_id": "8",
+  "name": "Ankit Saini",
+  "email": "Ankit1412saini@outlook.com",
+  "phone": "+91 8510868437",
+  "location": "",
+  "summary": "Dedicated Manual QA Tester with over six years of experience in catalog management and data integrity maintenance, and over three months of hands-on experience in software testing for web and mobile applications. Proficient in designing test cases, tracking defects, and performing various testing methodologies to ensure high-quality software delivery. Skilled in utilizing tools like JIRA and Azure DevOps for test management and reporting. Well-versed in SDLC, STLC, and Agile methodologies, with a strong ability to identify bugs and enhance user experience. Adept at collaborating with cross-functional teams to meet project deadlines and deliver defect-free software solutions.",
+  "education": [
+    {
+      "degree": "B.Com (Bachelor of Commerce (Hons))",
+      "institution": "Mahrishi Dayanand University",
+      "year": "2015 to 2018"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Manual QA Tester",
+      "company": "Shorthills AI",
+      "duration": "1st Jan 2025 to Present",
+      "location": "",
+      "description": "Engaged in comprehensive test planning, execution, result analysis, and reporting for various screens of the web application. Responsible to keep track of the new requirements in the Project and update the test cases accordingly. Worked closely with Developers and Product Owners to ensure features/bug fixes are 'shippable' by sprint end. Using AZURE as the bug reporting tool. Involved in test planning, test creation, test execution, test result analysis and reporting for various screens of the application. Participated in all phases of Software Development Life Cycle (SDLC). Contributed to sprint planning, sprint review/retrospectives and daily stand-ups meetings."
+    },
+    {
+      "title": "Senior Research Associate",
+      "company": "Shorthills AI",
+      "duration": "April 2024 to Dec 2024",
+      "location": "",
+      "description": "Lead the Client Project called AWACS (Administrative Web Application Control System). Highlighted project goals, progress, and findings with reports and presentations. Developed and maintained databases for storage and organization of research data. Ensure all product information aligns with company standards, regulatory requirements, and marketplace guidelines. Monitor catalog performance, track key metrics, and suggest improvements based on insights and data analysis."
+    },
+    {
+      "title": "Research Associate",
+      "company": "Shorthills AI",
+      "duration": "April 2022 to March 2024",
+      "location": "",
+      "description": "Analyzed data using statistical software and presented findings in written reports. Evaluated existing methodologies and developed new techniques to improve research quality. Conducted interviews, surveys, or focus groups as part of data collection process. Coordinated automotives related research projects, including planning timelines, preparing reports and managing team resources."
+    },
+    {
+      "title": "Junior Research Associate",
+      "company": "Shorthills AI",
+      "duration": "Nov 2018 to March 2022",
+      "location": "",
+      "description": "Maintain, update, and optimize product catalogs across multiple platforms, ensuring accuracy and completeness."
+    }
+  ],
+  "skills": [
+    "Manual QA Testing",
+    "Azure DevOps",
+    "Quality Assurance Processes",
+    "Software Development Life Cycle",
+    "Software Testing Life Cycle",
+    "JIRA",
+    "Excel",
+    "Catalog Management",
+    "Data integrity maintenance",
+    "Regression testing",
+    "System testing",
+    "Defect tracking"
+  ],
+  "projects": [],
+  "certifications": [],
+  "languages": [],
+  "social_profiles": []
+}

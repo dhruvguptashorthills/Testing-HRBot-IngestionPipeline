@@ -1,0 +1,51 @@
+{
+  "employee_id": "110369",
+  "name": "MANMEET KAUR",
+  "email": "",
+  "phone": "+919478.838217",
+  "location": "GURGAON, India",
+  "summary": "5+ Years Catalogue management; Data Collection Data QA. Skilled testing, and Documentation defect tracking Functions and regression testing ensure software quality. Proficient in JIRA and Azure DevOps for Management and reporting defects. Knowledge of SDLC, STLC, Agile methodologies. Cooperative team player. Dedicated to finding flaws, ensuring high-quality software delivery.",
+  "education": [
+    {
+      "degree": "Bachelor of Sciences: Economics",
+      "institution": "UAY College",
+      "year": ""
+    },
+    {
+      "degree": "Masters in Sciences: Economics",
+      "institution": "Guru Nanak Dev University",
+      "year": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software QA",
+      "company": "Shorthill AI",
+      "duration": "12/2024 - Current",
+      "location": "GURGAON, India",
+      "description": "Engaged in comprehensive planning, execution, and tracking of application requirements. Worked closely with Developers and Product Owners to ensure results are shippable and bug-free."
+    },
+    {
+      "title": "Data Science Annotation Analyst",
+      "company": "Shorthills",
+      "duration": "",
+      "location": "",
+      "description": "Data Annotation, Kanua Data Extraction Category Management for e-commerce. Primary and Secondary Web Research."
+    }
+  ],
+  "skills": [
+    "Manual Testing Skills",
+    "JIRA",
+    "Strong DevOps",
+    "Compatibility Testing",
+    "Test Case Design Documents",
+    "MS-Excel",
+    "Attention to Detail",
+    "Software Development Life Cycle",
+    "Testing Life Cycle"
+  ],
+  "projects": [],
+  "certifications": [],
+  "languages": [],
+  "social_profiles": []
+}

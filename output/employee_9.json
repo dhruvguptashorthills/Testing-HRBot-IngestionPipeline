@@ -1,0 +1,80 @@
+{
+  "employee_id": "9",
+  "name": "ASHWINI KUMAR",
+  "email": "ashwinikumar9176@gmail.com",
+  "phone": "+91-9576268976",
+  "location": "",
+  "summary": "",
+  "education": [
+    {
+      "degree": "B.TECH (ME)",
+      "institution": "KNIT, Sultanpur(UP Govt. College)",
+      "year": "2013-17"
+    },
+    {
+      "degree": "CBSE (Class XII)",
+      "institution": "Bal Niketan, Varanasi",
+      "year": 2012
+    },
+    {
+      "degree": "UP BOARD (Class X)",
+      "institution": "U P College, Varanasi",
+      "year": 2010
+    }
+  ],
+  "experience": [],
+  "skills": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JS",
+    "JQUERY",
+    "BOOTSTRAP",
+    "Visual Studio code editor",
+    "MS office",
+    "AUTO-CAD"
+  ],
+  "projects": [
+    {
+      "title": "Basic calculator",
+      "description": "Designed calculator to perform mathematical calculation using HTML, CSS and JS."
+    },
+    {
+      "title": "Dummy college website",
+      "description": "Designed a college website using HTML and CSS."
+    },
+    {
+      "title": "Signup form",
+      "description": "Designed a signup form using HTML, CSS and JS with validation concept."
+    },
+    {
+      "title": "Social media and e-commerce front pages",
+      "description": "Designed multiple dummy front pages of social media websites and e-commerce websites using HTML and CSS."
+    },
+    {
+      "title": "REGENERATIVE BRAKING SYSTEM",
+      "description": "Designed a model which works on the principle of energy conservation."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AutoBotz-AVR workshop",
+      "issuer": "Technophilia"
+    },
+    {
+      "title": "Fundamental of Python",
+      "issuer": "Coding-Ninja"
+    },
+    {
+      "title": "Front web development",
+      "issuer": "Programmers Point, Indore"
+    }
+  ],
+  "languages": [],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ashwini-kumar-1a4695204"
+    }
+  ]
+}

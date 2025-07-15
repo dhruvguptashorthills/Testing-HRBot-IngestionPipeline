@@ -1,0 +1,57 @@
+{
+  "employee_id": "12",
+  "name": "MANMEET KAUR",
+  "email": "",
+  "phone": "+919478838217",
+  "location": "Gurgaon, India",
+  "summary": "Software QA with 5+ years of experience in Catalogue management, Data Collection, and Data Analysis. Skilled in testing, documentation defect tracking functions, and ensuring software quality. Proficient in JIRA and Azure DevOps for management and reporting defects. Knowledge of SDLC, STLC, and Agile methodologies. Cooperative team player dedicated to finding flaws, ensuring high-quality software schedules, detecting and managing multi-project sequences.",
+  "education": [
+    {
+      "degree": "Bachelor of Sciences: Economics",
+      "institution": "UAY College",
+      "year": ""
+    },
+    {
+      "degree": "Masters of Sciences: Economics",
+      "institution": "Guru Nanak Dev University",
+      "year": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software QA",
+      "company": "Shorthill AI",
+      "duration": "12/2024 - Current",
+      "location": "Gurgaon, India",
+      "description": "Engaged in comprehensive planning, execution, and tracking of application requirements. Worked closely with Developers and Product Owners to ensure results are shippable and bug-free. Responsible for keeping track of new requirements in the project and updating test cases accordingly. Maintained detailed documentation of test cases, test execution results, and bug reports. Involved in test planning, test creation, test execution, test result analysis, and reporting for various screens of the application."
+    },
+    {
+      "title": "Data Science Annotation Analyst",
+      "company": "Shorthills",
+      "duration": "09/2023 - 11/2024",
+      "location": "Gurgaon, India",
+      "description": "Data Annotation, Manual Data Extraction, and Category Management for e-commerce. Conducted primary and secondary web research."
+    }
+  ],
+  "skills": [
+    "Manual Testing Skills",
+    "JIRA",
+    "Azure DevOps",
+    "Strong Analytical & Problem-Solving Skills",
+    "Compatibility Testing",
+    "Test Case Design Documents",
+    "MS-Excel",
+    "Attention to Detail",
+    "Software Development Life Cycle",
+    "Software Testing Life Cycle"
+  ],
+  "projects": [],
+  "certifications": [],
+  "languages": [],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://www.linkedin.com/in/manmeet-kaur-88323a262/"
+    }
+  ]
+}

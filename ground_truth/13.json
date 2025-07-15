@@ -1,0 +1,102 @@
+{
+  "employee_id": "110315",
+  "name": "Manoranjan Kumar Roy",
+  "email": "qamkroy@gmail.com",
+  "phone": "+91-8826220234",
+  "location": "A-89, New Ashok Nagar, New Delhi. 110096.",
+  "summary": "Over 5 years of experience in Software Industry with Quality Assurance and Manual Testing, Functional Testing, API testing (using Postman tool) of web application and Mobile application developed in Web, Mobile, Client/Server environment using Agile and scrum test methodologies. Proficient as a Senior QA Engineer in Manual Testing with interactive tools like Jira and TestRail in E-Commerce, RV Rental, Property management, E-Learning, Document Management, Analytical, Social Networking, and Telecommunication. Proficient as Mobile App Tester in testing web application and Mobile applications on iOS and Android Platforms. Well conversant in performing Black box testing on both Functional and non-functional requirements. Extensive knowledge of the full software testing life-cycle. Proficient in writing and managing Test Cases, Bug Reporting and tracking defects using Jira and TestRail tools. Expertise in taking crash logs of iOS and Android devices using ADB tools. Thorough hands on experience in designing test cases, covering all test conditions and eliminating redundancy and duplication. Good experience in analyzing changes and identifying areas of the application to be regression tested. Proficient in Cross browser testing of applications on Google Chrome, Safari, Firefox browsers and Cross platform testing on Windows, Mac, iOS and Android. Thorough hands on experience with all levels of testing including Sanity, Usability, Smoke, Functional, Integration, Regression, End to End and User Acceptance Testing. Well versed with Exploratory Testing, Mobile Testing. Experience of 2.5 years in Mobile Apps Testing of Native apps, Web apps, Hybrid Apps on Mobile and Tablet devices. Team leading, Team player, Self Motivated, Highly productive, Continuous learner, Commitment and enjoy working as a part of result driven in Team and individual projects.",
+  "education": [
+    {
+      "degree": "B-Tech(Computer Science)",
+      "institution": "Galgotias University, Gr. Noida, UP.",
+      "year": 2017
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr. Software QA Engineer",
+      "company": "Shorthills Tech Pvt. Ltd",
+      "duration": "March 2023 - Present",
+      "description": ""
+    },
+    {
+      "title": "Sr. Quality Assurance Engineer",
+      "company": "Onward Technologies",
+      "duration": "December 2021 - 31st Dec, 2022",
+      "description": ""
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "Shorthills Tech Pvt. Ltd.",
+      "duration": "April 2021 - 6th Dec, 2021",
+      "description": ""
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "QAGalaxy Software Services Pvt. Ltd.",
+      "duration": "Feb 2018 - March 2021",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "C",
+    "Java",
+    "TestRail",
+    "Postman",
+    "Jira",
+    "Version One",
+    "Taiga",
+    "Trello",
+    "Confluence",
+    "Excel",
+    "SQL",
+    "Screenpresso",
+    "Jing",
+    "Vysor",
+    "Windows",
+    "Mac",
+    "Ubuntu",
+    "iOS",
+    "Android",
+    "Chrome",
+    "Firefox",
+    "Safari",
+    "Edge"
+  ],
+  "projects": [
+    {
+      "title": "Mi Property Portal",
+      "description": "Its single web portal has all the integrated modules to manage properties of any size. Which includes Tenant Screening, Online Rent Collection, Accounting & Reporting, Lead Management, Automated Forms, Maintenance Tracking, Property Inspection etc."
+    },
+    {
+      "title": "MindStaq",
+      "description": "MindStaq is the next generation office suite that works the way the 21st century digital mind works. MindStaq leverages the power of web technology to create a dynamic productivity tool geared for today’s mindset and sensibilities– creating, consuming, collaborating, and reviewing content on a screen rather than in print format. As the first office suite to ground itself in Internet fundamentals, MindStaq echoes the way in which people actually think and work today, and introduces a radically reimagined work flow for both individuals and teams."
+    },
+    {
+      "title": "Orgill (United States & Canada)",
+      "description": "Orgill, Inc. distributes hardware and home improvement products to hardware, home improvement, and building material retailers in the United States, Canada and internationally. It offers advertising, marketing, and sales programs; and retail services. The company offers its products through its field salesforce."
+    },
+    {
+      "title": "Aybiz",
+      "description": "Aybiz is a business finder with a personality. Easily explore thousands of businesses and products in Kuwait and the Middle east. Treat yourself to an effortless browsing experience that ends with you finding the places and products you love. On the Aybiz App, you can discover new places and events nearby and read useful reviews of local businesses and products."
+    },
+    {
+      "title": "ClearCaptions",
+      "description": "ClearCaptions is a free phone captioning service that provides near real-time call captions of phone conversations for anyone hard-of-hearing or with any form of hearing loss. Similar to captioned television, ClearCaptions allows for you to read real-time written call captions of what callers say on our revolutionary home phone, your mobile device, or your computer."
+    },
+    {
+      "title": "RV Rental",
+      "description": "RV Rentals brings doers and dreamers together, providing RV owners with the best, most intuitive platform and tools to start making real money from their RV. In other words, we’re helping to create the world’s first fleet of RV entrepreneurs. With the RVshare platform, owners can list their RVs for renters to find. They can customize their listing in order to highlight what makes their RV special, why they love it, and any amenities included."
+    },
+    {
+      "title": "Auto-DX",
+      "description": "Auto-Dx app is a ZS SaaS offering to address exploratory data mining needs. It helps analysts perform exploratory analyses to discover insights by answering questions like, 'What is happening' and 'What might explain it.' The intuitive interface offers a variety of modular components for each phase of the analytics workflow. Analysts can bring any analysis to life by invoking the components either ‘individually’ for a specific task or ‘chained together’ for a detailed analysis."
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "social_profiles": []
+}

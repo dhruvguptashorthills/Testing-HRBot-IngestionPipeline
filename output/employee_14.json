@@ -1,0 +1,60 @@
+{
+  "employee_id": "14",
+  "name": "Krishika Bisht",
+  "email": "krishikabisht13@gmail.com",
+  "phone": "+1\u20117557258046",
+  "location": "Hno.190/L Badarpur Border, New Delhi: 110044",
+  "summary": "To secure employment with a reputable company, where I can utilize my skills and business studies background to the maximum.",
+  "education": [
+    {
+      "degree": "BBA",
+      "institution": "Satyug Darshan Institute of Engineering And Technology",
+      "year": "Ongoing"
+    },
+    {
+      "degree": "12th",
+      "institution": "Panchsheel Public School",
+      "year": 2019
+    },
+    {
+      "degree": "10th",
+      "institution": "Stanford Convent School",
+      "year": 2017
+    }
+  ],
+  "experience": [
+    {
+      "title": "Brand Associate",
+      "company": "Magicpin",
+      "duration": "May 2022 - July 2023",
+      "location": "",
+      "description": ""
+    },
+    {
+      "title": "Internship as a Sales Executive",
+      "company": "ORS Jewelers",
+      "duration": "15 July 2021 - 21 August 2021",
+      "location": "",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "Group Discussion",
+    "Speech",
+    "Debate",
+    "Basic MS Excel"
+  ],
+  "projects": [
+    {
+      "title": "ORS Jewelers",
+      "description": "Internship as a Sales Executive from 15 July 2021 to 21 August 2021.",
+      "link": ""
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": []
+}

@@ -1,0 +1,102 @@
+{
+  "employee_id": "13",
+  "name": "Manoranjan Kumar Roy",
+  "email": "qamkroy@gmail.com",
+  "phone": "+91-8826220234",
+  "location": "A-89, New Ashok Nagar, New Delhi. 110096.",
+  "summary": "Over 5 years of experience in Software Industry with Quality Assurance and Manual Testing, Functional Testing, API testing (using Postman tool) of web application and Mobile application developed in Web, Mobile, Client/Server environment using Agile and scrum test methodologies. Proficient as a Senior QA Engineer in Manual Testing with interactive tools like Jira and TestRail in E-Commerce, RV Rental, Property management, E-Learning, Document Management, Analytical, Social Networking, and Telecommunication. Proficient as Mobile App Tester in testing web application and Mobile applications on iOS and Android Platforms. Well conversant in performing Black box testing on both Functional and non-functional requirements. Extensive knowledge of the full software testing life-cycle. Proficient in writing and managing Test Cases, Bug Reporting and tracking defects using Jira and TestRail tools. Expertise in taking crash logs of iOS and Android devices using ADB tools. Thorough hands on experience in designing test cases, covering all test conditions and eliminating redundancy and duplication. Good experience in analyzing changes and identifying areas of the application to be regression tested. Proficient in Cross browser testing of applications on Google Chrome, Safari, Firefox browsers and Cross platform testing on Windows, Mac, iOS and Android. Thorough hands on experience with all levels of testing including Sanity, Usability, Smoke, Functional, Integration, Regression, End to End and User Acceptance Testing. Well versed with Exploratory Testing, Mobile Testing. Experience of 2.5 years in Mobile Apps Testing of Native apps, Web apps, Hybrid Apps on Mobile and Tablet devices. Team leading, Team player, Self Motivated, Highly productive, Continuous learner, Commitment and enjoy working as a part of result driven in Team and individual projects.",
+  "education": [
+    {
+      "degree": "B-Tech(Computer Science)",
+      "institution": "Galgotias University, Gr. Noida, UP.",
+      "year": 2017
+    }
+  ],
+  "experience": [
+    {
+      "title": "Sr. Software QA Engineer",
+      "company": "Shorthills Tech Pvt. Ltd",
+      "duration": "March 2023 - Present",
+      "description": ""
+    },
+    {
+      "title": "Sr. Quality Assurance Engineer",
+      "company": "Onward Technologies",
+      "duration": "December 2021 - 31st Dec, 2022",
+      "description": ""
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "Shorthills Tech Pvt. Ltd.",
+      "duration": "April 2021 - 6th Dec, 2021",
+      "description": ""
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "QAGalaxy Software Services Pvt. Ltd.",
+      "duration": "Feb 2018 - March 2021",
+      "description": ""
+    }
+  ],
+  "skills": [
+    "C",
+    "Java",
+    "TestRail",
+    "Postman",
+    "Jira",
+    "Version One",
+    "Taiga",
+    "Trello",
+    "Confluence",
+    "Excel",
+    "SQL",
+    "Screenpresso",
+    "Jing",
+    "Vysor",
+    "Windows",
+    "Mac",
+    "Ubuntu",
+    "iOS",
+    "Android",
+    "Chrome",
+    "Firefox",
+    "Safari",
+    "Edge"
+  ],
+  "projects": [
+    {
+      "title": "Mi Property Portal",
+      "description": "Its single web portal has all the integrated modules to manage properties of any size. Which includes Tenant Screening, Online Rent Collection, Accounting & Reporting, Lead Management, Automated Forms, Maintenance Tracking, Property Inspection etc."
+    },
+    {
+      "title": "MindStaq",
+      "description": "MindStaq is the next generation office suite that works the way the 21st century digital mind works. MindStaq leverages the power of web technology to create a dynamic productivity tool geared for today\u2019s mindset and sensibilities\u2013 creating, consuming, collaborating, and reviewing content on a screen rather than in print format."
+    },
+    {
+      "title": "Orgill (United States & Canada)",
+      "description": "Orgill, Inc. distributes hardware and home improvement products to hardware, home improvement, and building material retailers in the United States, Canada and internationally. It offers advertising, marketing, and sales programs; and retail services."
+    },
+    {
+      "title": "Aybiz",
+      "description": "Aybiz is a business finder with a personality. Easily explore thousands of businesses and products in Kuwait and the Middle East."
+    },
+    {
+      "title": "ClearCaptions",
+      "description": "ClearCaptions is a free phone captioning service that provides near real-time call captions of phone conversations for anyone hard-of-hearing or with any form of hearing loss."
+    },
+    {
+      "title": "RV Rental",
+      "description": "RV Rentals brings doers and dreamers together, providing RV owners with the best, most intuitive platform and tools to start making real money from their RV."
+    },
+    {
+      "title": "Auto-DX",
+      "description": "Auto-Dx app is a ZS SaaS offering to address exploratory data mining needs."
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "social_profiles": []
+}

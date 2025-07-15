@@ -1,0 +1,106 @@
+{
+  "employee_id": "4",
+  "name": "Aakash Sehrawat",
+  "email": "aakashsehrawat5087@gmail.com",
+  "phone": "9990622111",
+  "location": "New Delhi",
+  "summary": "",
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science and Design",
+      "institution": "IIIT DELHI",
+      "year": "2017-2021"
+    },
+    {
+      "degree": "Class X - 10 CGPA",
+      "institution": "DPS, R.K. PURAM",
+      "year": "2010-2016"
+    },
+    {
+      "degree": "Class XII - 91%",
+      "institution": "DPS, R.K. PURAM",
+      "year": "2010-2016"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "TUMMEE.COM",
+      "duration": "May 2021 - Sep 2023",
+      "location": "",
+      "description": "Expanded SEO reach of the platform with 1M+ new pages to drive customer acquisition. Worked on improving the Authentication on the platform. Tech Used: Python, Flask, Webapp2, HTML5/CSS/JS, Google App Engine."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Flask",
+    "HTML5/CSS",
+    "Javascript",
+    "React.js",
+    "Backend Development",
+    "Rest APIs",
+    "Git",
+    "Software Development",
+    "Google Cloud",
+    "Google App Engine",
+    "Java",
+    "C++",
+    "Data Structures & Algorithms",
+    "SQL",
+    "Linux",
+    "Web Development",
+    "Libraries - Numpy",
+    "Libraries - Pandas"
+  ],
+  "projects": [
+    {
+      "title": "Teacher Sequences",
+      "description": "Worked on making 1M+ sequence pages available as logged-out pages for users and search engines. Improved existing search on the Teacher Sequences page by fixing bugs, adding new filters for search implemented using the Google Search API."
+    },
+    {
+      "title": "Support Service",
+      "description": "Implemented the service which was an interface for the Customer Support team to directly manipulate user data. Implemented multiple APIs related to Profile, Subscription, and Security information which would fetch and update user data on the interface."
+    },
+    {
+      "title": "Authentication Service",
+      "description": "Implemented authentication APIs, which were later used to authenticate all other micro-services on the platform. Google OAuth 2.0, Google one-tap, Disallowing spam users on the platform."
+    },
+    {
+      "title": "Customer Requests",
+      "description": "Added new pages (logged-in and logged-out) related to FAQs, feedback, tutorials and functionalities. Resolving customer issues with authentication, accounts, signups, etc. Worked with the Yoga Team to help with customer requests and technology support for internal scripts. Reduced our time lag from 10 days to 2 days for getting for uploading new yoga poses on the platform."
+    },
+    {
+      "title": "Initiatives",
+      "description": "Worked on developing a 'Tummee Library' which had internal functions in the library files that could be used by any project. Created quizzes related to technology topics to be used by team members."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Python",
+      "issuer": "DataCamp",
+      "link": "https://www.datacamp.com/statement-of-accomplishment/course/fe3d848654cf30b4eb7780781b5930d7e0062f36?raw=1"
+    },
+    {
+      "title": "HTML+CSS",
+      "issuer": "Udemy",
+      "link": "https://www.udemy.com/certificate/UC-f50c80d7-6b6a-44f3-9863-88be68e961d7/"
+    },
+    {
+      "title": "Flask",
+      "issuer": "LinkedIn Learning",
+      "link": "https://www.linkedin.com/learning/certificates/2c2c76dbe3a232c564ebb7a344c6d6f9a7febdeffd7683310325e803c78e40d6"
+    },
+    {
+      "title": "Django",
+      "issuer": "LinkedIn Learning",
+      "link": "https://www.linkedin.com/learning/certificates/a8b882659e6b74e0d0cc4651bcf60004ebf43188e6b993f3454dc0b2f854c45f"
+    }
+  ],
+  "languages": [],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://www.linkedin.com/in/aakash-sehrawat-2b1a22175"
+    }
+  ]
+}

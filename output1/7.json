@@ -1,0 +1,97 @@
+{
+  "employee_id": "7",
+  "name": "Anand Kumar Dubey",
+  "email": "ananddubeykumar01@gmail.com",
+  "phone": "+91-8076927404",
+  "location": "Delhi",
+  "summary": "Senior Cloud & DevOps Engineer with 6+ years of experience in designing, implementing, and managing scalable cloud infrastructure and CI/CD pipelines. Proficient in AWS and Azure, with strong expertise in automation, containerization (Docker, Kubernetes), and infrastructure as code (Terraform, Ansible). Proven track record of optimizing cloud resources, enhancing deployment efficiency, and driving cost reductions. Adept at collaborating with cross-functional teams to deliver secure, high-performance, and resilient cloud solutions.",
+  "education": [
+    {
+      "degree": "Master of Technology",
+      "institution": "Sardar Vallabhbhai National Institute of Technology",
+      "year": "2016"
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "institution": "Uttar Pradesh Technical University (UPTU), Lucknow UP",
+      "year": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Consultant - Devops Studio",
+      "company": "NashTech Global",
+      "duration": "March 2023 - Present",
+      "location": "Remote - Noida",
+      "description": "Led a team of DevOps engineers using Agile methodologies in developing reusable Azure Pipeline templates for CI/CD, ensuring streamlined software delivery across projects. Managed and mentored team members, overseeing the automation of infrastructure provisioning with Terraform and ensuring best practices were followed. Spearheaded automation initiatives, directing efforts in Dockerization, quality checks, and security assessments to optimize CI/CD pipelines and reduce R&D costs by 40%. Implemented a structured CI framework, leading the integration of Snyk and SonarQube across 137 repositories, which enhanced code quality, security, and reduced error rates by 60%. Standardized Azure DevOps templates for client-specific environments, ensuring consistency, reusability, and efficiency across multiple repositories. Provisioned and upgraded Azure VMs, guiding the team in developing SOPs for consistent and reliable operations. Led the development of Terraform scripts for endpoint security, including the installation of SentinelOne and the removal of McAfee across multiple tenants and labs."
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Saminfratech (P) Ltd",
+      "duration": "October 2017 \u2013 March 2023",
+      "location": "Lucknow",
+      "description": "Automated Environment Build & Provisioning using Docker and Kubernetes, improved deployment speed by 50% and reduced error rates by 60%. Led the development and management of Jenkins and Docker-based CI/CD pipelines across multiple projects within AWS, enhancing overall deployment efficiency and scalability. Applied expertise in Git, Linux Shell Scripting, Jenkins, Maven, CI/CD, Docker, and Kubernetes to implement robust and scalable DevOps practices. Introduced and enforced best practices for pipeline and workflow automation, leveraging advanced Docker and Kubernetes solutions on AWS to streamline operations and increase efficiency. Enhanced cloud infrastructure by optimizing AWS services including EC2, S3, VPC, SNS, CloudWatch, and EBS, ensuring reliable, secure, and scalable cloud solutions. Implemented Azure DevOps for seamless CI/CD integration, automating Infrastructure as Code (IaC) with Terraform to streamline cloud resource management. Implemented Ansible for automated configuration management, ensuring consistent and scalable infrastructure across environments."
+    },
+    {
+      "title": "Teaching",
+      "company": "Engineer's Kudos",
+      "duration": "August 2011 - July 2014",
+      "location": "Raj Nagar Ghaziabad, UP",
+      "description": "Developed and delivered a comprehensive curriculum for GATE exam preparation, enhancing student engagement and ensuring thorough coverage of key topics. Mentored and guided students academically, providing personalized support to help them excel in competitive exams and achieve their professional goals. Focused on student success, consistently improving teaching methods and adapting materials to meet individual learning needs."
+    }
+  ],
+  "skills": [
+    "AWS",
+    "Azure",
+    "Jenkins",
+    "Azure DevOps Pipeline",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "GitHub",
+    "Maven",
+    "Linux",
+    "Cloud Watch (AWS)",
+    "Prometheus",
+    "Grafana",
+    "Bash",
+    "PowerShell",
+    "Python",
+    "JIRA",
+    "ServiceNow",
+    "Azure Boards",
+    "Windows",
+    "CentOS",
+    "JFrog",
+    "Visual Studio Code"
+  ],
+  "projects": [
+    {
+      "title": "Destination Architecture Cloud Engineering & DevOps",
+      "description": "Developed reusable Azure Pipeline templates for Continuous Integration (CI) and Continuous Deployment (CD), streamlining the software delivery process. Authored Terraform scripts to automate Azure Cloud infrastructure provisioning, ensuring scalability and reliability. Automated Dockerization, quality checks, and vulnerability assessments within CI/CD pipelines, enhancing code quality and security. Optimized CI/CD pipeline creation across all products, regardless of source code language (Maven, .NET, Node.js), resulting in a 40% reduction in R&D costs. Decreased pipeline resolution time by 50%, significantly enhancing user experience and operational efficiency. Reduced error rates by over 60% by establishing a structured CI framework that integrates Snyk and SonarQube as best practices, accompanied by comprehensive documentation. Integrated SonarQube across all products in 137 repositories to generate code coverage reports for multi-language projects (.NET, Maven, Node.js), improving code quality and compliance. Incorporated Snyk into CI pipelines, automating security vulnerability scanning across all product environments. Provisioned and upgraded Azure Virtual Machines (VMs), while developing Standard Operating Procedures (SOPs) for consistent operations. Standardized Azure DevOps (ADO) CI/CD templates for client-specific environments, ensuring consistency and reusability across repositories. Created Terraform scripts to install SentinelOne and remove McAfee from VMs across multiple tenants and labs, enhancing endpoint security."
+    },
+    {
+      "title": "Healthcare Domain Project \u2013 Centralized Medical Data Platform",
+      "description": "Managed version control using GitHub, ensuring efficient and secure code management. Provisioned AWS infrastructure using Terraform, enabling scalable and reliable cloud environments. Automated application deployment through Jenkins Pipelines, streamlining the CI/CD process. Designed and implemented Jenkins and Docker-based CI/CD pipelines in AWS, significantly improving software delivery speed and reducing deployment errors. Authored Docker and Kubernetes files for containerized application deployment, ensuring seamless orchestration and scalability. Monitored Kubernetes clusters and Linux servers using advanced monitoring tools, maintaining system performance and reliability."
+    },
+    {
+      "title": "Payment Gateway Project",
+      "description": "Automated Environment Setup & Provisioning: Implemented Docker and Kubernetes for consistent and rapid deployment across development, testing, and production stages. CI/CD Pipeline Optimization: Utilized Git, Linux Shell scripting, Jenkins, and Maven to enhance efficiency in Continuous Integration and Continuous Delivery pipelines. Configured and maintained Jenkins and Docker-based build pipelines within AWS for seamless integration and delivery. Developed and enforced automation best practices, introducing Docker and Kubernetes solutions to improve deployment speed and reliability. Optimized AWS services including EC2, S3, VPC, SNS, CloudWatch, and EBS to ensure a secure, scalable, and efficient infrastructure for the payment gateway."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Microsoft Certified Azure Fundamentals",
+      "issuer": "Microsoft",
+      "year": "2023",
+      "link": "https://learn.microsoft.com/en-gb/users/ananddubey-6789/credentials/c89237f6b3e3e742"
+    }
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "social_profiles": []
+}

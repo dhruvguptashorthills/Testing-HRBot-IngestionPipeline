@@ -1,0 +1,176 @@
+{
+  "employee_id": "15",
+  "name": "Ajay Kumar Sahu",
+  "email": "ajaysearch123@gmail.com",
+  "phone": "07503994399",
+  "location": "Vill-Jaunpur, Post-M.Badshahpur, Dist-Jaunpur (UP)",
+  "summary": "Offering nearly 12 years of experience in Software/Application Development with expertise in all phases of Software Development Life Cycle (SDLC), project management, and clean coding practices. Highly skilled in building relationships with stakeholders and presenting project changes, issues, risks, and contingency plans.",
+  "education": [
+    {
+      "degree": "B.Tech. (Computer Science & Engineering)",
+      "institution": "IIMT College of Engineering, Greater Noida, Uttar Pradesh Technical University",
+      "year": 2010
+    },
+    {
+      "degree": "12th",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2003
+    },
+    {
+      "degree": "10th",
+      "institution": "HIC Jaunpur, UP, UP Board",
+      "year": 2001
+    }
+  ],
+  "experience": [
+    {
+      "title": "Solution Architect",
+      "company": "Redian Software Pvt. Ltd.",
+      "duration": "Since Jul’22",
+      "location": "Noida",
+      "description": "Developing software solutions by studying information needs, conferring with users, and contributing in daily defect meetings with the Development Team."
+    },
+    {
+      "title": "Technical Lead",
+      "company": "Techfour Engineering Solutions Pvt. Ltd.",
+      "duration": "Feb’13",
+      "location": "New Delhi",
+      "description": "Led project planning, execution, and management in tune with core business objectives."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Goofy Info System Pvt. Ltd.",
+      "duration": "Nov’12-Feb’13",
+      "location": "Noida",
+      "description": "Participated in the Software Development Lifecycle (SDLC) from requirement analysis to maintenance of proposed applications."
+    },
+    {
+      "title": "Sr. Software Developer",
+      "company": "Tetra Information Services Pvt. Ltd.",
+      "duration": "Oct’11-Oct’12",
+      "location": "New Delhi",
+      "description": "Developed application components and maintained program modules including operational support."
+    },
+    {
+      "title": "Software Developer",
+      "company": "Successive Pvt. Ltd.",
+      "duration": "Oct’10-Sep’11",
+      "location": "Noida",
+      "description": "Involved in requirement gathering and preparing functional specifications."
+    }
+  ],
+  "skills": [
+    "NodeJS",
+    "Python",
+    "PHP",
+    "AWS",
+    "Oracle",
+    "Codeigniter",
+    "Laravel",
+    "HTML",
+    "CSS",
+    "XML",
+    "JSON",
+    "Javascript",
+    "Jquery",
+    "Angular",
+    "ReactJS",
+    "Smarty",
+    "SVN",
+    "GitHub",
+    "GitLab",
+    "Mysql",
+    "Postgres",
+    "MongoDB",
+    "Linux",
+    "Windows",
+    "Visual Studio",
+    "DreamViewer",
+    "PHPStorm",
+    "Pycharm",
+    "WebStorm",
+    "Notepad++",
+    "vTiger CRM",
+    "Sugar CRM",
+    "Suite CRM",
+    "ProcessMaker",
+    "SQS Queue",
+    "Kafka Queue"
+  ],
+  "projects": [
+    {
+      "title": "Airtel Fastag",
+      "description": "Understanding business processes and finalizing the approach with clients with timeline and delivery date. Stack: Python, Postgres, React Native."
+    },
+    {
+      "title": "InsueMe",
+      "description": "Understanding business processes and finalizing the approach with clients with timeline and delivery date. Stack: NodeJs, Angular, Mysql."
+    },
+    {
+      "title": "DriverShaab",
+      "description": "Understanding business processes and finalizing the approach with clients with timeline and delivery date. Stack: NodeJs, Angular, Mysql, React Native."
+    },
+    {
+      "title": "IOT Management System",
+      "description": "Designing a microservices approach and managing project plans for delivery to client. Stack: NodeJs, Android, Mysql."
+    },
+    {
+      "title": "Layer Five",
+      "description": "Designing a microservices approach and managing project plans for delivery to client. Stack: NodeJs, Python, Angular, Postgres."
+    },
+    {
+      "title": "Health Management System",
+      "description": "Designing a microservices approach and managing project plans for delivery to client. Stack: NodeJs, Angular, Mysql."
+    },
+    {
+      "title": "Complaint Management System",
+      "description": "Designing a microservices approach and managing project plans for delivery to client. Stack: NodeJs, Angular, Mysql."
+    },
+    {
+      "title": "CRM System(Sugar CRM, Suite CRM)",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, NodeJs, Angular, Mysql, MongoDB."
+    },
+    {
+      "title": "Domino's",
+      "description": "Understanding business processes from clients and working on BRD. Stack: NodeJs, Angular, Mysql, MongoDB."
+    },
+    {
+      "title": "PLUTOS System(Vtiger CRM)",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, Angular, Mysql."
+    },
+    {
+      "title": "MIS Reports",
+      "description": "Migrating the MySQL database into the mongo database and synchronization incremental mysql data into the mongo database. Stack: NodeJs, MongoDB."
+    },
+    {
+      "title": "aLive",
+      "description": "Understanding business processes from clients and working on BRD. Stack: NodeJs, Mysql, Android, iOS."
+    },
+    {
+      "title": "MFCS",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, HTML, JQuery, Mysql."
+    },
+    {
+      "title": "Firefly",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, HTML, JQuery, Mysql."
+    },
+    {
+      "title": "HRM",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, HTML, JQuery, Mysql."
+    },
+    {
+      "title": "iKnow",
+      "description": "Understanding business processes from clients and working on BRD. Stack: Drupal, PHP, HTML, JQuery, Mysql."
+    },
+    {
+      "title": "TVS",
+      "description": "Understanding business processes from clients and working on BRD. Stack: PHP, HTML, JQuery, Mysql."
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": []
+}
