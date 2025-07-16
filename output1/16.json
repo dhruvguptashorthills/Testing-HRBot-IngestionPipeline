@@ -1,0 +1,85 @@
+{
+  "employee_id": "16",
+  "name": "Bharti Saini",
+  "email": "bhartisaini2712@gmail.com",
+  "phone": "+91-9958318544",
+  "location": "New Delhi, India",
+  "summary": "I am a results-driven and competent professional with 3 years background in Back-end Application Development. I possess a thorough understanding of the technical intricacies across the application development lifecycle, including inception, elaboration, construction, transition, and ongoing maintenance of proposed applications. My technical expertise encompasses Python, Django, MySQL and MongoDB. I excel in the creation of robust Restful APIs using Django, MongoDB and SQL databases, demonstrating proficiency in implementing innovative business logic. My hands-on experience extends to developing, code review and maintaining back-end Restful APIs. I exhibit a strong grasp of programming tools, including Python, Databases, Algorithms, Data Structures and Design patterns. This technical prowess allows me to consistently provide operational support, address issues, offer production support, engage in preventative and corrective maintenance, and drive enhancements for system optimization. An effective communicator with the capability to relate to people at any level of business; possess excellent critical thinking and negotiation skills.",
+  "education": [
+    {
+      "degree": "BE in Instrumentation and Control Engineering",
+      "institution": "NSIT, Delhi",
+      "year": 2020
+    },
+    {
+      "degree": "Class XII",
+      "institution": "CBSE, New Delhi",
+      "year": 2016
+    },
+    {
+      "degree": "Class X",
+      "institution": "CBSE, New Delhi",
+      "year": 2014
+    }
+  ],
+  "experience": [
+    {
+      "title": "Back-end Developer (SDE)",
+      "company": "VMS Techs",
+      "duration": "Apr 2023 - Sept 2023",
+      "description": "Worked on real-time web app development and deployment using Django framework and MySQL. Created RestFul APIs for desktop, Android, and web apps. Developed a custom Django Admin panel for Database and API management. Implemented Celery tasks to reduce API response times and scheduled tasks for automated and timely execution in order to enhance overall system efficiency. Diagnosed, debugged, and optimized APIs ensuring error-free and efficient functionality for seamless application performance."
+    },
+    {
+      "title": "Back-end Developer (SDE)",
+      "company": "GoMechanic",
+      "duration": "Nov 2020 - March 2023",
+      "description": "Projects: Spares, Workshop, Finance, Retailer, Distributor, Non-Network. Increased efficiency of Finance Dashboard and Garage App by 60%. Built Non-network Ecosystem (App & dashboard) from scratch (Python, Django). Successfully developed Retailer App, Distributor App & Dashboard. Coordinated API workflow, implemented features, resolved bugs, and optimized Python code. Explored technologies: Python, Git, Django, Django Rest Framework, Postman, Python Shell, Jira. Performed MongoDB database operations (CRUD, data aggregation)."
+    }
+  ],
+  "skills": [
+    "Python",
+    "MongoDB",
+    "Django",
+    "Git",
+    "Django REST",
+    "Redis",
+    "MySQL",
+    "Celery",
+    "OOPs",
+    "JIRA"
+  ],
+  "projects": [
+    {
+      "title": "Antplay WebApp",
+      "description": "A real time webapp that turns any smart device into a gaming PC."
+    },
+    {
+      "title": "Finance Dashboard",
+      "description": "Used to process the reconciliation and payments of garages, distributors, and retailers. Main features implemented: Integration of Razorpay Payment gateway for facilitating payments, Integration of BDO APIs for generating e-invoices and verifying GSTIN of users."
+    },
+    {
+      "title": "Garage App",
+      "description": "An application to manage the vehicle pickup from customer's place, inspection, health check-up, sending estimate to customers, adding spare parts from inventory, generating bill, online payment by QR code and various services."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Data Structure and Algorithms using Python",
+      "issuer": "Udemy"
+    },
+    {
+      "title": "Version Control with Git",
+      "issuer": "Coursera"
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "social_profiles": [
+    {
+      "platform": "LinkedIn",
+      "link": "linkedin.com/in/bhartisaini27121998/"
+    }
+  ]
+}

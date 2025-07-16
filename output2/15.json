@@ -27,19 +27,19 @@
       "title": "Solution Architect",
       "company": "Redian Software Pvt. Ltd.",
       "duration": "Since Jul\u201922",
-      "description": "Leading software solutions development and project management."
+      "description": "Leading software solutions development, project planning, and execution."
     },
     {
       "title": "Technical Lead",
       "company": "Techfour Engineering Solutions Pvt. Ltd.",
       "duration": "Feb\u201913",
-      "description": "Oversaw technical aspects of projects and led development teams."
+      "description": "Managed technical specifications and led development teams."
     },
     {
       "title": "Sr. Software Developer",
       "company": "Goofy Info System Pvt. Ltd.",
       "duration": "Nov\u201912-Feb\u201913",
-      "description": "Developed software solutions and participated in the SDLC."
+      "description": "Developed software solutions and participated in SDLC."
     },
     {
       "title": "Sr. Software Developer",
@@ -51,7 +51,7 @@
       "title": "Software Developer",
       "company": "Successive Pvt. Ltd.",
       "duration": "Oct\u201910-Sep\u201911",
-      "description": "Engaged in coding and implementation of software applications."
+      "description": "Involved in coding and implementation of applications."
     }
   ],
   "skills": [
@@ -98,77 +98,77 @@
   "projects": [
     {
       "title": "Airtel Fastag",
-      "description": "Developed modules for Vendor, Order, Products, Dispatch, Delivery, Transfer, Reports, Communication, etc. for Airtel.",
+      "description": "Developed software solutions for Airtel including modules for Vendor, Order, Products, Dispatch, Delivery, Transfer, Reports, and Communication.",
       "link": ""
     },
     {
       "title": "InsueMe",
-      "description": "Worked on modules for Vendor, Product, Package, Pricing, Policy, Offer, Sales, Leads, Invoice, Warranty, Reports, Communication, etc. for InsureMe Kenya.",
+      "description": "Worked on InsureMe Kenya project focusing on modules for Vendor, Product, Package, Pricing, Policy, Offer, Sales, Leads, Invoice, Warranty, and Reports.",
       "link": ""
     },
     {
       "title": "DriverShaab",
-      "description": "Developed modules for Vendor, Driver, Pickup, Drop, Tracking, Location, Invoice, Reports, Communication, etc.",
+      "description": "Developed modules for DriverShaab including Vendor, Driver, Pickup, Drop, Tracking, Location, Invoice, and Reports.",
       "link": ""
     },
     {
       "title": "IOT Management System",
-      "description": "Designed a microservices approach for modules including Customer, Device, Device Command, Family Member, Communication, etc.",
+      "description": "Designed a microservices approach for Bisquare's IOT Management System.",
       "link": ""
     },
     {
       "title": "Layer Five",
-      "description": "Managed microservices project for Customer, Customer Insight 360, Analytics, Tracking, Communication, etc.",
+      "description": "Managed microservices project for Layer Five including Customer, Customer Insight 360, Analytics, and Tracking.",
       "link": ""
     },
     {
       "title": "Health Management System",
-      "description": "Developed modules for Customer, Products, Plan, Review, Escalation, Auto Approval, Workflow, Communication, etc.",
+      "description": "Developed a Health Management System for Biometric with modules for Customer, Products, Plan, Review, Escalation, Auto Approval, and Workflow.",
       "link": ""
     },
     {
       "title": "Complaint Management System",
-      "description": "Worked on modules for Customer, Products, Plan, Warranty, Escalation, Auto Approval, Workflow, Communication, etc.",
+      "description": "Developed a Complaint Management System for Assurant with various modules.",
       "link": ""
     },
     {
       "title": "CRM System (Sugar CRM, Suite CRM)",
-      "description": "Developed modules for Campaigns, Activity, Leads, Enterprise Leads, Enterprise Customer, Customer, Membership, Service Request, Communications, Emails, Email to SR, Complaint, Users, Teams, and Reports.",
+      "description": "Worked on CRM System for OneAssist Consumer Solutions with modules for Campaigns, Activity, Leads, and Reports.",
       "link": ""
     },
     {
       "title": "Domino's",
-      "description": "Worked on modules for Customer, Store, Target, Order, Campaign, Coupon, Inventory, Biker & Mapping for Domino's Indonesia.",
+      "description": "Developed a system for Domino's Indonesia focusing on Customer, Store, Target, Order, Campaign, and Inventory.",
       "link": ""
     },
     {
       "title": "PLUTOS System (Vtiger CRM)",
-      "description": "Developed modules for Campaigns, Activity, Lead, and Reports for OneAssist Consumer Solutions Private Limited.",
+      "description": "Worked on PLUTOS System for OneAssist Consumer Solutions with modules for Campaigns, Activity, Lead, and Reports.",
       "link": ""
     },
     {
       "title": "MIS Reports",
-      "description": "Migrated MySQL database into MongoDB and synchronized incremental MySQL data into MongoDB.",
+      "description": "Migrated MySQL database into MongoDB and synchronized incremental data.",
       "link": ""
     },
     {
       "title": "aLive",
-      "description": "Developed modules for Registration, Login, Import contacts, Groups, Events, Video Conferencing and Notification.",
+      "description": "Developed aLive application with modules for Registration, Login, Import contacts, Groups, Events, and Video Conferencing.",
       "link": ""
     },
     {
       "title": "MFCS",
-      "description": "Worked on modules for Target, Campaigns, Activity, Lead, Customer, Vehicle, Model, Invoice PSF, NPSF, SMR, Import, Export, and Reports.",
+      "description": "Developed MFCS for Mahindra First Choice Services with modules for Target, Campaigns, Activity, Lead, Customer, and Reports.",
       "link": ""
     },
     {
       "title": "Firefly",
-      "description": "Developed modules for Package Master, Customer, Activity, Lead, Sales Approval, Package Sold, Payment, Document, Approval Information, Client Servicing, Client Activation Import, Export, and Reports.",
+      "description": "Developed Firefly project for Hindustan Times with modules for Package Master, Customer, Activity, Lead, and Reports.",
       "link": ""
     },
     {
       "title": "HRM",
-      "description": "Worked on modules for Timesheet, Leave, travel, travel expense, Local conveyance, Expense Sheet, Cashadvance, Telephone, Reimbursement and Import Attendance Data.",
+      "description": "Developed HRM system for Gali Gali Sim Sim.",
       "link": ""
     },
     {
@@ -178,12 +178,12 @@
     },
     {
       "title": "TVS",
-      "description": "Worked on modules for Customer, VehicleDetails, RWSRetail, Extended Warranty, OEM, Model, Variant, SalesOrder, Claim, and Report.",
+      "description": "Worked on TVS project with modules for Customer, VehicleDetails, and Reports.",
       "link": ""
     },
     {
       "title": "Modules",
-      "description": "Developed modules for Timesheet, Leave, travel, travel expense, Local conveyance, Expense Sheet, Cashadvance, Telephone, Reimbursement and Import Attendance Data.",
+      "description": "Developed modules for Timesheet, Leave, Travel, and Expense management.",
       "link": ""
     }
   ],

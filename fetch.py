@@ -6,7 +6,7 @@ import requests
 # Configuration
 GET_URL = "http://104.208.162.61:8083/get"
 OUTPUT_FOLDER = "output2"  # Folder to store fetched JSONs
-NUM_EMPLOYEES = 15  # Change if you want more/less
+NUM_EMPLOYEES = 20  # Change if you want more/less
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

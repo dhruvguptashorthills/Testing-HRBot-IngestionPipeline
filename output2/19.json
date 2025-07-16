@@ -1,0 +1,91 @@
+{
+  "employee_id": "19",
+  "name": "Utkarsh Upadhyay",
+  "email": "utkarshupadhyay9608@gmail.com",
+  "phone": "+91- 9718888745",
+  "location": "Noida, India",
+  "summary": "With over 3.6 years of proven expertise in Banking, FinTech, and E-commerce Sector, specializing in driving operational excellence and delivering precision in project management. A strong track record of streamlining processes, improving customer experiences, and ensuring projects are delivered on time and within budget. Adept at leading cross-functional teams and leveraging data-driven insights to achieve strategic objectives and drive business success.",
+  "education": [
+    {
+      "degree": "Master\u2019s in Business Analytics",
+      "institution": "California State University, East Bay",
+      "year": ""
+    },
+    {
+      "degree": "Bachelors in Information Technology",
+      "institution": "Dr. A.P.J. Abdul Kalam Technical University",
+      "year": ""
+    }
+  ],
+  "experience": [
+    {
+      "title": "Project Manager II",
+      "company": "Rogue Credit Union",
+      "duration": "April 2022 \u2013 August 2024",
+      "location": "USA",
+      "description": "Deployed over 7 projects for Rogue Credit Union, leading all phases of the SDLC using Agile and Waterfall methodologies, resulting in enhanced project delivery times and higher client satisfaction scores by 14%. Managed and coordinated a cross-functional team of 15+ members, improving cross-departmental communication and reducing project turnaround time by 20%. Led the seamless transition from a legacy core banking system to a new platform, employing Agile methodologies to minimize disruptions and improve operational efficiency by 20%. Utilized comprehensive testing strategies for smooth integration. Partnered with a digital services vendor to reinstate critical system functionality, utilizing SQL and API integrations to improve operational performance by 15% and customer satisfaction by 25%. Conducted comprehensive stakeholder analysis and requirements gathering using Jira and Confluence, tailoring the system to organizational needs and resulting in a 30% boost in operational efficiency."
+    },
+    {
+      "title": "Project Associate",
+      "company": "Webtech Squad",
+      "duration": "Jan. 2019 \u2013 Dec. 2019",
+      "location": "India",
+      "description": "Implemented Agile Model in conjunction with Six Sigma methodology to deliver projects, leading to a 10% reduction in defects and improving project delivery timelines by 8%. Coordinated cross-functional team meetings, optimizing resource allocation and task tracking via MS Excel, which improved project completion rates by 10% and reduced resource waste by 20%. Created and managed extensive project documentation, received positive client feedback and increasing customer satisfaction, ultimately contributing to repeat business and long-term client partnerships. Created and maintained Responsibility Assignment Matrix and Requirements Traceability Matrix (RTM). Created the business process model using Microsoft Visio and presented it to the SME for validation and getting the signoffs. Implemented various Agile methodologies and their combinations to manage projects, defined objectives, scope, and team composition."
+    }
+  ],
+  "skills": [
+    "Stakeholder Management",
+    "Requirements Gathering",
+    "SQL",
+    "Descriptive Analysis",
+    "Root Cause Analysis",
+    "Statistics",
+    "Cost/benefit analysis",
+    "Risk analysis",
+    "SWOT analysis",
+    "Java",
+    "Python",
+    "Jira",
+    "Asana",
+    "Zoho",
+    "MS Project",
+    "MS Excel",
+    "MS SharePoint",
+    "G suite",
+    "Agile/Scrum",
+    "Kanban",
+    "SDLC",
+    "Waterfall",
+    "Microsoft Visio",
+    "UAT",
+    "Fiserv\u2019s DNA",
+    "Time management",
+    "Leadership and management",
+    "Problem-solving",
+    "Negotiation",
+    "Decision-Making",
+    "Documentation and Presentation",
+    "Verbal communication"
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "title": "IBM Project Management",
+      "issuer": "",
+      "year": "",
+      "link": ""
+    },
+    {
+      "title": "PMP certification",
+      "issuer": "",
+      "year": "Pursuing",
+      "link": ""
+    }
+  ],
+  "languages": [
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "social_profiles": []
+}

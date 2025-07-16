@@ -1,6 +1,6 @@
 {
     "name": "Danish Dewani",
-    "email": "danish.dewani@gmail.com",
+    "email": "danish.dewani@gmail.com, hello@danishdewani.in",
     "phone": "+91-7742949901, +91-8587021993",
     "location": "Kota, Rajasthan",
     "summary": "To get a growth-oriented fulltime position in a reputed organization where I can enhance myself and my skills can be utilized for improvement and success of the organization.",
@@ -116,7 +116,16 @@
         "Photoshop",
         "CorelDraw"
     ],
-    "projects": [],
+    "projects": [
+    {
+      "title": "Various Ventures",
+      "description": "Single-handedly developed and deployed multiple portals, MVP and websites for company\u2019s venture."
+    },
+    {
+      "title": "Real-Estate Portals",
+      "description": "Developed 4 different real-estate portal with lead generation, Coworking listing/booking/invoice management portal, Magento based custom eCommerce for jewellery venture."
+    }
+    ],
     "certifications": [],
     "languages": [],
     "social_profiles": []

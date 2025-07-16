@@ -10,15 +10,15 @@ RESUME_FOLDER = "data"  # Folder with input resumes
 # Supported extensions
 SUPPORTED_EXTENSIONS = {".pdf", ".doc", ".docx"}
 
-# Get sorted list of resume files (to ensure 1-15 mapping is consistent)
+# Get sorted list of resume files (to ensure 1-20 mapping is consistent)
 resume_files = sorted(
     [f for f in os.listdir(RESUME_FOLDER) if os.path.splitext(f)[1].lower() in SUPPORTED_EXTENSIONS]
 )
 
 timesheet = []
 
-for idx, filename in enumerate(resume_files[:15], 1):  # Up to 15 resumes
-    employee_id = str(idx)  # Assign employee ID 1 to 15
+for idx, filename in enumerate(resume_files[:15], 1):  # Up to 20 resumes
+    employee_id = str(idx)  # Assign employee ID 1 to 20
     file_path = os.path.join(RESUME_FOLDER, filename)
     _, ext = os.path.splitext(filename)
     new_filename = f"{employee_id}{ext}"

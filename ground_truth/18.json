@@ -1,0 +1,61 @@
+{
+    "name": "Debanjan Bhattacharya",
+    "email": "debanjan.b123@gmail.com",
+    "phone": "7980296166",
+    "location": "Delhi, Delhi, 110096",
+    "summary": "Passionate to build data-driven products from scratch, that people will use for years. Hands-on experience in building and managing digital products, product strategy, product conceptualization, A/B testing, and product lifecycle management. Strong understanding in product design, user interface, data analysis, and people management. Skilled in Google Analytics, Pivotal Tracker, JIRA and Microsoft Excel.",
+    "education": [
+        {
+            "degree": "MBA: Marketing",
+            "institution": "SBM, NMIMS, Mumbai",
+            "year": "2018-06 - 2020-03",
+            "tier": "Tier3"
+        },
+        {
+            "degree": "B.E: Power",
+            "institution": "Jadavpur University",
+            "year": "2011-08 - 2015-07",
+            "tier": "Tier1"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Product Manager",
+            "company": "CarWale",
+            "duration": "2020-05 - Current",
+            "location": "Mumbai, Maharashtra",
+            "description": "Responsible for editorial content, user-generated content, user experience, and user acquisition through search engine optimization of key as well as long-tail search keywords. Defined product roadmap, product goals, key success metrics, and KPIs to measure and analyse growth of the product, studied user data to derive customer insights, performed competitor analysis to identify opportunities for better user experience and acquisition, developed product documentation to communicate and align key components of upcoming features and products to internal teams. Collaborated across team boundaries in cross-functional roles, coordinated with different stakeholders and internal departments to drive the implementation of planned product enhancements in agile scrum."
+        },
+        {
+            "title": "Product Management Intern",
+            "company": "CarWale",
+            "duration": "2019-04 - 2019-05",
+            "location": "Mumbai, Maharashtra",
+            "description": "Conducted user research to understand customers and car dealerships pain points throughout the entire car buying journey. Designed a car dealership branding solution aimed at increasing visibility across the CarWale mobile and web platforms. Identified product improvement opportunities and suggested user engagement initiatives for higher customer acquisition."
+        },
+        {
+            "title": "Assistant System Engineer",
+            "company": "Tata Consultancy Services",
+            "duration": "2016-04 - 2018-05",
+            "location": "Kolkata, West Bengal",
+            "description": "Understood and assisted in quality assurance of Citibank client application, Citi Risk Commercial. Analysed and framed business as well as functional requirement analysis documents. Managed activities of six-member Digital Client Files (DCF) testing team under CRC. Planned and supervised test execution schedules and directly involved in client negotiations."
+        }
+    ],
+    "skills": [
+        "Product Development",
+        "Product Strategy",
+        "Search Engine Optimization",
+        "Stakeholder Management",
+        "Product Ideation"
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [],
+    "social_profiles": [
+        {
+            "platform": "LinkedIn",
+            "link": "www.linkedin.com/in/debanjanbhatt"
+        }
+    ],
+    "location_tier": "Tier1"
+}
